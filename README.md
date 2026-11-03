@@ -40,34 +40,24 @@ This repository provides a complete multi-task learning framework for joint **4-
 │   └── benchmark/
 │       └── annotation_with_sentiment_intent.csv      # 300-row human-verified gold test benchmark
 │
-├── notebooks/
-│   ├── 01_data_curation/
-│   │   ├── 01_sold_ccms_eda_and_split.ipynb
-│   │   └── 02_singlish_transliteration_nllb_llm_pipeline.ipynb
-│   │
-│   ├── 02_baseline_models/
-│   │   ├── 03_cartesian_12class_single_head.ipynb
-│   │   ├── 04_cross_lingual_shared_trunk_transfer.ipynb
-│   │   └── 05_asymmetric_dual_head_holdout.ipynb
-│   │
-│   ├── 03_cross_validation_resampling/
-│   │   ├── 06_asymmetric_dual_head_2fold_cv_oversampling.ipynb
-│   │   └── 07_asymmetric_dual_head_5fold_cv_oversampling.ipynb
-│   │
-│   └── 04_domain_mlm_and_attention_ablation/
-│       ├── 08_domain_mlm_single_query_attention_prototype.ipynb
-│       ├── 09_factorial_ablation_mlm_x_pooling_clean_zwj.ipynb
-│       └── 10_factorial_ablation_mlm_x_pooling_emoji_punct.ipynb
-│
-└── docs/
-    ├── presentation/
-    │   └── progress_presentation_may2026.pdf
-    ├── paper/
-    │   ├── main.tex
-    │   ├── custom.bib
-    │   └── figures/
-    └── report/
-        └── final_research_report.md
+└── notebooks/
+    ├── 01_data_curation/
+    │   ├── 01_sold_ccms_eda_and_split.ipynb
+    │   └── 02_singlish_transliteration_nllb_llm_pipeline.ipynb
+    │
+    ├── 02_baseline_models/
+    │   ├── 03_cartesian_12class_single_head.ipynb
+    │   ├── 04_cross_lingual_shared_trunk_transfer.ipynb
+    │   └── 05_asymmetric_dual_head_holdout.ipynb
+    │
+    ├── 03_cross_validation_resampling/
+    │   ├── 06_asymmetric_dual_head_2fold_cv_oversampling.ipynb
+    │   └── 07_asymmetric_dual_head_5fold_cv_oversampling.ipynb
+    │
+    └── 04_domain_mlm_and_attention_ablation/
+        ├── 08_domain_mlm_single_query_attention_prototype.ipynb
+        ├── 09_factorial_ablation_mlm_x_pooling_clean_zwj.ipynb
+        └── 10_factorial_ablation_mlm_x_pooling_emoji_punct.ipynb
 ```
 
 ---
@@ -132,8 +122,8 @@ We evaluate four variants crossing **Domain Pretraining (`MLM` vs. `noMLM`)** an
 
 ### 1. Installation
 ```bash
-git clone https://github.com/<your-username>/sinhala-joint-sentiment-intent-nlu.git
-cd sinhala-joint-sentiment-intent-nlu
+git clone https://github.com/ThiwankaChanditha/Sinhala-joint-sentiment-and-intent.git
+cd Sinhala-joint-sentiment-and-intent
 pip install -r requirements.txt
 ```
 

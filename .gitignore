@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS system files
+.DS_Store
+
+# Model checkpoints & large cached weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npz
+mlm_ckpt/
+outputs/
+wandb/
