@@ -1,0 +1,32 @@
+% Auto-generated results table (Run A and Run B on the 300-row human gold benchmark)
+\begin{table*}[t]
+\caption{Baseline, factorial ablation, and control experiments evaluated on the 300-row human-verified gold benchmark (mean $\pm$ std over 3 seeds: 42, 43, 44). Best value in each column per preprocessing regime is shown in \textbf{bold}.}
+\label{tab:full_baseline_ablation_results}
+\centering
+\small
+\begin{tabular}{llcccccc}
+\toprule
+\textbf{Regime} & \textbf{Model} & \textbf{Sent Acc} & \textbf{Sent F1 (3-cls)} & \textbf{Sent F1 (4-cls)} & \textbf{Intent Acc} & \textbf{Intent F1} & \textbf{Joint Acc} \\
+\midrule
+Run A (Clean ZWJ) & Majority class & 0.613 & 0.253 & 0.190 & 0.260 & 0.069 & 0.240 \\
+ & TF-IDF + LR (char) & --- & --- & --- & --- & --- & --- \\
+ & TF-IDF + LR (word) & --- & --- & --- & --- & --- & --- \\
+ & XLM-R plain (noMLM+mean) & 0.713 $\pm$ 0.005 & 0.649 $\pm$ 0.005 & 0.487 $\pm$ 0.004 & 0.454 $\pm$ 0.002 & 0.397 $\pm$ 0.007 & 0.374 $\pm$ 0.003 \\
+ & noMLM+attn & 0.713 $\pm$ 0.005 & 0.645 $\pm$ 0.007 & 0.484 $\pm$ 0.005 & 0.461 $\pm$ 0.004 & 0.403 $\pm$ 0.007 & 0.383 $\pm$ 0.005 \\
+ & MLM+mean & 0.740 $\pm$ 0.020 & 0.668 $\pm$ 0.023 & 0.501 $\pm$ 0.017 & \textbf{0.463 $\pm$ 0.010} & \textbf{0.408 $\pm$ 0.008} & 0.392 $\pm$ 0.006 \\
+ & MLM+attn (proposed) & \textbf{0.776 $\pm$ 0.013} & \textbf{0.719 $\pm$ 0.023} & \textbf{0.539 $\pm$ 0.017} & 0.454 $\pm$ 0.006 & 0.398 $\pm$ 0.009 & \textbf{0.401 $\pm$ 0.004} \\
+ & Single-task sentiment & --- & --- & --- & --- & --- & --- \\
+ & Matched-compute control & --- & --- & --- & --- & --- & --- \\
+\midrule
+Run B (Emoji+Punct) & Majority class & 0.613 & 0.253 & 0.190 & 0.260 & 0.069 & 0.240 \\
+ & TF-IDF + LR (char) & --- & --- & --- & --- & --- & --- \\
+ & TF-IDF + LR (word) & --- & --- & --- & --- & --- & --- \\
+ & XLM-R plain (noMLM+mean) & 0.728 $\pm$ 0.007 & 0.659 $\pm$ 0.008 & 0.494 $\pm$ 0.006 & 0.469 $\pm$ 0.006 & 0.407 $\pm$ 0.007 & 0.390 $\pm$ 0.003 \\
+ & noMLM+attn & 0.722 $\pm$ 0.007 & 0.651 $\pm$ 0.004 & 0.488 $\pm$ 0.003 & 0.476 $\pm$ 0.017 & 0.412 $\pm$ 0.027 & 0.394 $\pm$ 0.016 \\
+ & MLM+mean & 0.738 $\pm$ 0.008 & 0.667 $\pm$ 0.009 & 0.500 $\pm$ 0.007 & \textbf{0.484 $\pm$ 0.002} & \textbf{0.429 $\pm$ 0.006} & \textbf{0.410 $\pm$ 0.003} \\
+ & MLM+attn (proposed) & \textbf{0.751 $\pm$ 0.002} & \textbf{0.683 $\pm$ 0.007} & \textbf{0.512 $\pm$ 0.005} & 0.474 $\pm$ 0.004 & 0.410 $\pm$ 0.010 & 0.401 $\pm$ 0.007 \\
+ & Single-task sentiment & --- & --- & --- & --- & --- & --- \\
+ & Matched-compute control & --- & --- & --- & --- & --- & --- \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,20 @@
+{
+  "notebook": "ablation_noMLM+attn",
+  "model": "noMLM+attn",
+  "sent_acc": 0.722,
+  "sent_acc_std": 0.007,
+  "sent_f1_3cls": 0.651,
+  "sent_f1_3cls_std": 0.004,
+  "sent_f1_4cls": 0.488,
+  "sent_f1_4cls_std": 0.003,
+  "intent_acc": 0.476,
+  "intent_acc_std": 0.017,
+  "intent_f1": 0.412,
+  "intent_f1_std": 0.027,
+  "joint_acc": 0.394,
+  "joint_acc_std": 0.016,
+  "run": "runB",
+  "seed": "42_43_44",
+  "n_test": 300,
+  "is_preaggregated": true
+}

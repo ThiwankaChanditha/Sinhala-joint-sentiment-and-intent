@@ -1,0 +1,20 @@
+{
+  "notebook": "ablation_MLM+attn",
+  "model": "MLM+attn (proposed)",
+  "sent_acc": 0.751,
+  "sent_acc_std": 0.002,
+  "sent_f1_3cls": 0.683,
+  "sent_f1_3cls_std": 0.007,
+  "sent_f1_4cls": 0.512,
+  "sent_f1_4cls_std": 0.005,
+  "intent_acc": 0.474,
+  "intent_acc_std": 0.004,
+  "intent_f1": 0.41,
+  "intent_f1_std": 0.01,
+  "joint_acc": 0.401,
+  "joint_acc_std": 0.007,
+  "run": "runB",
+  "seed": "42_43_44",
+  "n_test": 300,
+  "is_preaggregated": true
+}

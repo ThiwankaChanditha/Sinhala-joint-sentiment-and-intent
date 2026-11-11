@@ -1,0 +1,20 @@
+{
+  "notebook": "03_xlmr_plain_baseline",
+  "model": "XLM-R plain (noMLM+mean)",
+  "sent_acc": 0.728,
+  "sent_acc_std": 0.007,
+  "sent_f1_3cls": 0.659,
+  "sent_f1_3cls_std": 0.008,
+  "sent_f1_4cls": 0.494,
+  "sent_f1_4cls_std": 0.006,
+  "intent_acc": 0.469,
+  "intent_acc_std": 0.006,
+  "intent_f1": 0.407,
+  "intent_f1_std": 0.007,
+  "joint_acc": 0.39,
+  "joint_acc_std": 0.003,
+  "run": "runB",
+  "seed": "42_43_44",
+  "n_test": 300,
+  "is_preaggregated": true
+}

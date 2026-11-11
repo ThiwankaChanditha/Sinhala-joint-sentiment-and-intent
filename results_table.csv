@@ -1,0 +1,19 @@
+Run,Model,Sent Acc,Sent F1 (3-cls),Sent F1 (4-cls),Intent Acc,Intent F1,Joint Acc
+runA,Majority class,0.613,0.253,0.190,0.260,0.069,0.240
+runA,TF-IDF + LR (char),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)
+runA,TF-IDF + LR (word),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)
+runA,XLM-R plain (noMLM+mean),0.713 ± 0.005,0.649 ± 0.005,0.487 ± 0.004,0.454 ± 0.002,0.397 ± 0.007,0.374 ± 0.003
+runA,noMLM+attn,0.713 ± 0.005,0.645 ± 0.007,0.484 ± 0.005,0.461 ± 0.004,0.403 ± 0.007,0.383 ± 0.005
+runA,MLM+mean,0.740 ± 0.020,0.668 ± 0.023,0.501 ± 0.017,0.463 ± 0.010,0.408 ± 0.008,0.392 ± 0.006
+runA,MLM+attn (proposed),0.776 ± 0.013,0.719 ± 0.023,0.539 ± 0.017,0.454 ± 0.006,0.398 ± 0.009,0.401 ± 0.004
+runA,Single-task sentiment,Pending (run notebook),Pending (run notebook),Pending (run notebook),—,—,—
+runA,Matched-compute control,Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)
+runB,Majority class,0.613,0.253,0.190,0.260,0.069,0.240
+runB,TF-IDF + LR (char),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)
+runB,TF-IDF + LR (word),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)
+runB,XLM-R plain (noMLM+mean),0.728 ± 0.007,0.659 ± 0.008,0.494 ± 0.006,0.469 ± 0.006,0.407 ± 0.007,0.390 ± 0.003
+runB,noMLM+attn,0.722 ± 0.007,0.651 ± 0.004,0.488 ± 0.003,0.476 ± 0.017,0.412 ± 0.027,0.394 ± 0.016
+runB,MLM+mean,0.738 ± 0.008,0.667 ± 0.009,0.500 ± 0.007,0.484 ± 0.002,0.429 ± 0.006,0.410 ± 0.003
+runB,MLM+attn (proposed),0.751 ± 0.002,0.683 ± 0.007,0.512 ± 0.005,0.474 ± 0.004,0.410 ± 0.010,0.401 ± 0.007
+runB,Single-task sentiment,Pending (run notebook),Pending (run notebook),Pending (run notebook),—,—,—
+runB,Matched-compute control,Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook),Pending (run notebook)

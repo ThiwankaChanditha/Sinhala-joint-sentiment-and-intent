@@ -1,0 +1,7 @@
+,pred_complaint,pred_feedback,pred_greeting,pred_inquiry,pred_other,pred_suggestion
+true_complaint,0,0,0,61,0,0
+true_feedback,0,0,0,94,0,0
+true_greeting,0,0,0,23,0,0
+true_inquiry,0,0,0,78,0,0
+true_other,0,0,0,13,0,0
+true_suggestion,0,0,0,31,0,0

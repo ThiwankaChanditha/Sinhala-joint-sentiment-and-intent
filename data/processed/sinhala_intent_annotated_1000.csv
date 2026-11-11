@@ -1,0 +1,1428 @@
+id,length,comment,annotator_1,annotator_2,change,Intent
+6,23,විදුලිය කපන කාලසටහන වගේ,negative,negative,1,feedback
+7,39,ඔයා යාලුවෙක්ට තුරුල් වෙලා උනුසුම ලබන්න.,positive,positive,1,suggestion
+17,19,මට නමි අපැහැදිලියි.,negative,negative,1,feedback
+23,33,මේකත් රුසියාවේ ලණුවක්ද කවුද දන්නෙ,negative,negative,1,feedback
+24,42,ඕක අහුවෙන්න ඇරපු එකත් පුටිනගෙ ප්ලෑන් එකක්.,neutral,neutral,1,feedback
+25,38,කොලේක ලියල තියයිද ඔයවගේ දේවල් මෝඩ කථා.,negative,negative,1,feedback
+30,38,අපේ ප්රශ්ණ අමතක කෙරුවට රුසියාවට ආදරෙයි,positive,positive,1,feedback
+32,14,අපිට පාන්ද ඩෝ.,negative,negative,1,complaint
+33,29,නෑ උඹට ෆෝමලින් ගහපු හේන් කරවල,negative,negative,1,complaint
+35,31,කොට කිඹුලා කටින් තියන්නද ලොල්ලො,negative,negative,1,complaint
+37,33,ඌට බැරි නම් උඹ තියාගනින්කො ලොල්ලො,negative,negative,1,complaint
+57,27,2015 දි මොල හතාත් පැනල ගියේ,negative,negative,1,feedback
+60,28,එකට අපේ මැදමුලනේ හෙන්චයෝ ටික,negative,negative,1,complaint
+70,28,අම්මෝ වරෙන් කටේ මසුරං දාන්න.,positive,positive,1,feedback
+88,19,පල ඩෝ ලොකු එක නොදී.,negative,negative,1,complaint
+91,34,බල්ලා ලොල් ලාල් ට වඩා වටිනවා නේ බං,negative,negative,1,complaint
+109,33,නගින බහින එව්වට ආගම් අදාළ නෑ සහෝ.,neutral,neutral,1,feedback
+127,39,ඇයි අෆ්ෆා අපිව අරන් යන්න කවුරුත් නැත්තෙ,neutral,neutral,1,feedback
+152,22,උඹත් පැදිකරුමයෙක් නේද.,negative,neutral,0,complaint
+155,24,මගේ රටට දළදා හිමි සරණයි.,positive,positive,1,greeting
+168,32,මොනව කලත් මියෝ නම් සිංහයෝ නොවෙති,negative,negative,1,feedback
+175,35,ඔඩොක්කු කුක්කෙක් තමයි බලා ගෙන ගියාම,negative,neutral,0,complaint
+185,11,මාධ්ය පොකුර,neutral,neutral,1,other
+195,12,කොහේද පැත්තක,neutral,neutral,1,other
+210,35,මෙන්න වහල් බයියෙකුට කේන්ති ගිහිල්ලා,negative,negative,1,complaint
+214,39,කොහේද මේ ජනාධිපති හිටංගේ කොන්ද පණ නෑනේ.,negative,negative,1,complaint
+223,27,ශ්රී ලංකා රාජපක්ෂ චීන ජනරජය,neutral,neutral,1,feedback
+228,22,හම්බන්තොට වික්කෙ කවද්ද,neutral,neutral,1,inquiry
+235,40,අඩේ බහුසෘත උඹ ඉන්න කැලෑවට සිග්නල් තියනවද,negative,negative,1,complaint
+238,28,වල අයට එකට කරන්ඩ බැහැ වැස්සො,negative,negative,1,complaint
+241,36,ආණ්ඩුව පෙරලෙන බවට පෙර නිමිති පහල වේ.,negative,neutral,0,feedback
+246,24,සර් එක්ක ලේසි වෙන්නේ නෑ.,negative,negative,1,feedback
+271,22,අපි හම්බකරොත් අපි කනවා,neutral,positive,0,feedback
+272,32,මං වගකියන්න මං දැනගෙන ඉන්න එපායැ,negative,negative,1,feedback
+289,32,මගේ එකත් රාජපක්ස පවුලට දෙනවා මම.,neutral,neutral,1,feedback
+295,28,මුන් හරක් නෙමෙයි.ගව පට්ටියක්,negative,negative,1,complaint
+301,25,මේක යක්ෂ දෝෂයක් වෙන්න ඇති,negative,negative,1,feedback
+319,9,හම්බයෙක්ද,negative,negative,1,complaint
+325,35,එක අන්තිම සවුත්තු බැංකුවක් හොඳ වැඩේ,negative,negative,1,complaint
+329,32,අය් බන් ලෝන් එක දුන්නේ නැද්ද උබට,negative,negative,1,inquiry
+330,14,යට ටිකත් බලපන්,neutral,neutral,1,feedback
+331,40,අපොයි ඔව්. හරිම නිවැරදියට තියෙයි වාර්තා.,positive,positive,1,feedback
+351,16,හරිම හොද තීරනයක්,positive,positive,1,feedback
+355,11,මොන පොකුරෙද,neutral,neutral,1,other
+356,26,මෙයා බ්රැන්ඩික්ස් නෙවෙයි ද,neutral,neutral,1,feedback
+358,32,ශුවර් ද ලාල් මාත් හම්බන්තොට තමයි,neutral,neutral,1,feedback
+359,17,ඉතිං මට පාන්ද ඩෝ.,negative,negative,1,complaint
+368,21,එතකොට කෝ නයනි ගයාත්රි,neutral,neutral,1,feedback
+374,34,මුන් වයසට ගියාට වෙලා නෑ හද්ද ගොන්.,negative,negative,1,complaint
+392,40,චීනය වලට නම් ඉස්සරහට අපිට ඕව ගෙවන්න බැහැ,negative,negative,1,feedback
+423,34,කොරෝනා බේතක් තියෙනවා. එත් ඒක රහසක්,conflict,conflict,1,feedback
+431,31,මිනිස්සු වැලලෙන්නෙත් බොරුවටද බං,negative,negative,1,complaint
+439,37,මෙතන ආන්ඩුවෙ රෙදි අපුල්ලන් නැතිව 200.,negative,negative,1,complaint
+442,22,සින්දුවක් කියන්න බැරිද,neutral,neutral,1,inquiry
+443,31,ඒ උනාට තාම සමාජයේ පැතිරිලා නෑලූ,positive,positive,1,feedback
+445,36,අම්මපා ඔහොම පංති අපිට සෙට් වුනේ නැනේ,negative,negative,1,feedback
+457,20,මගේ වයිෆ් වගේ සමනලයා,positive,neutral,0,feedback
+459,25,මේ වැලිගම මොන ස්කූල් එකේද,neutral,neutral,1,inquiry
+460,28,බදියුදීන්ව හොයන්න බැරිද ඔහොම,neutral,neutral,1,inquiry
+466,9,නියම කතාව,positive,positive,1,feedback
+467,39,සිරාවට මටත් ඕකම කොටන්ඩ හිතුනා අසහනකාරයෝ,negative,negative,1,feedback
+474,28,අපේ කාලෙ ඔහොම ල හිටියෙ නෑ නේ,neutral,negative,0,feedback
+479,17,සභාවේ තදින් සිනා.,positive,positive,1,feedback
+483,22,ඒ ටීච හොඳට කියලා දෙනවා,positive,positive,1,feedback
+497,25,ප්රංශෙ ජනාදිපති මතක් උනා.,neutral,neutral,1,feedback
+502,18,චික් හිරිකිතේ බැහැ,negative,negative,1,complaint
+530,19,ඉක්මන් සුව අත්වේවා.,positive,positive,1,greeting
+539,32,ජීවිතය අනිත්යයි ජීවිතය අනිත්යයි.,negative,negative,1,feedback
+544,27,සුදුස්සන්ට සුදුසු තැන නැද්ද,conflict,negative,0,inquiry
+546,38,අමුඩෙ ගහගෙන රගපාපු නලුවා මෙයාගේ තාත්තා,neutral,neutral,1,feedback
+550,34,මේ අර අමුඩෙ ගහගෙන රගපාපු නලුවා නේද,neutral,neutral,1,inquiry
+571,33,ලාවටනම් කමක් නෑ.අම්මෝ අපි බය උනා.,negative,negative,1,complaint
+584,22,වෛද්ය වෘත්තියට නිගාවක්,negative,negative,1,complaint
+596,12,ඒ ඉස්සර ලංගම,neutral,neutral,1,feedback
+600,24,අපේ බස් එක මේ සතියම ගෙදර,neutral,neutral,1,feedback
+638,30,සමාජෙ පැතිරිලා නෑ. බයවෙන්න එපා,positive,positive,1,feedback
+643,42,වී කරල් තියන කුඹුරේ සෙරප්පු දාගෙන ඉන්න එපා,neutral,neutral,1,feedback
+658,36,පොලිස් නිලධාරින් ද ඔහුට පහර දුන් බව.,negative,negative,1,other
+684,37,අපෝ කේ ජි විමලසේන. එයා තමයි හොදටම කලේ,negative,positive,0,feedback
+693,35,අපේ පොලෝසිය මාර ලොකු වැඩක් කරලා නේද,positive,positive,1,feedback
+699,35,කවුද කියල නොදන්නවා උනත් කථාවනම් මරු,positive,positive,1,feedback
+707,27,මුගේ. ධනු කයිය විතරයි පඩ ෂෝ,negative,negative,1,feedback
+708,13,කව්ද අප්පා මේ,negative,neutral,0,inquiry
+709,32,කවුද බං මූ. මම සිරාවටම දන්නෙ නෑ.,negative,negative,1,inquiry
+717,9,මු ගේ නෙද,neutral,neutral,1,inquiry
+718,16,නැහැ දොර ඉඩ කඩම්,neutral,neutral,1,feedback
+720,35,මූ උග්ර කොටියෙක් ලමයි අහු වෙන්න එපා,negative,negative,1,complaint
+721,12,ඉරිසියාකාරයා,negative,negative,1,feedback
+723,19,යුද්දේ නැතුව පාලුයි,negative,negative,1,feedback
+728,22,ධම්මික පෙරේරගෙ බඩු බන්,negative,neutral,0,feedback
+731,37,තාම සමාජගත වෙලා නෑනේ බයවෙන්න දෙයක් නෑ,positive,positive,1,feedback
+732,26,රාත්රී කොරෝනා අලුත් එකක් ද,negative,negative,1,feedback
+733,27,වියත් මග කියත් මග කෝවීඩ් මග,negative,negative,1,feedback
+744,38,එතකොට එකේ ගොබිලෝ ඉන්දියාවට ගිහින්ම නෑ.,negative,negative,1,complaint
+749,26,බෝ වුන විදිය අපිනම් දන්නවා,conflict,conflict,1,feedback
+753,41,අඩෝ බ්රන්ඩික්ස් එකට මොනවත් කීවොත් බලාගමු.,negative,negative,1,feedback
+756,31,ඇගලුම් මනාලිය. අනේ රටකට ගිය කල.,negative,negative,1,feedback
+758,40,මනාලිය බලන්නට ගොස් කොරෝනා කැන්දන් ආ වගයි,negative,negative,1,feedback
+761,19,අනේ පව් ඒ ගෑනු ළමයා,negative,negative,1,complaint
+763,3,අඩේ,negative,negative,1,feedback
+765,19,බයියෝ ඇවිත් රට කැවා,negative,negative,1,complaint
+767,25,අවුලක් නෑ සමාජයේ නෙවෙයිනේ,neutral,positive,0,feedback
+794,29,ඔයා ඔය කාලෙදි හිටියද වයස කීයද,neutral,neutral,1,inquiry
+804,16,ඔයාට ජයවේවා පුතා,positive,positive,1,greeting
+824,25,හොද වෙලාවට සමාජයේ නෙමෙයි.,positive,positive,1,feedback
+830,26,සමිතා ඔයා මේවට වගකියන්න ඕන,negative,negative,1,feedback
+831,39,සමිතා මේව බලන්නෙ නැහැ දුව විතරයි බලන්නෙ,neutral,neutral,1,feedback
+835,35,කොලුවට මල්වත්ත පෙන්නන එක්ක යන්න ඇති,neutral,positive,0,feedback
+845,28,ඉකේයියා ලොන්ත පෝල් බඩු ලාල්.,negative,negative,1,feedback
+858,29,වයිෆ්ට වයස 52. ඒනි ප්රෝබ්ලෙම්,negative,negative,1,feedback
+865,32,හැම විශයම උගන්වනව කිව්වෙ නිකන් ද,neutral,neutral,1,feedback
+867,27,මදුමිට අමර සැපක් දෙන්න ඇති.,positive,positive,1,feedback
+869,20,නාකි විසේ ගෙටත් විසේ,negative,negative,1,feedback
+875,21,කියන්නෙ ඇත්ත නේ බොලේ.,positive,positive,1,feedback
+887,21,බලපත්ර නොමැති පිස්තෝල,negative,negative,1,feedback
+891,24,රවි කරුණානායක පාර්ට් 2 ද,neutral,neutral,1,feedback
+901,39,මේ මනුස්සයාට නිදහසේ ඉන්න දෙන් නැති හැටි,negative,negative,1,feedback
+925,13,ඔව් ඒකත් ඇත්ත,positive,positive,1,other
+940,35,උල තියන්න තරම් ආත්මාර්ථකාමී මෝඩියක්,negative,negative,1,complaint
+948,37,සුපිරියි අවාසනාවකට වැඩේ හරි ගිහින් නෑ,negative,conflict,0,complaint
+963,22,නිවන් සුව ඔබට පියාණෙනී,positive,positive,1,other
+971,17,බෝගම්බර පොකුරකුත්,neutral,negative,0,other
+978,38,තාම සමාජ ගතවෙලා නෑනේ බය වෙන්න දෙයක් නෑ,positive,positive,1,feedback
+1017,5,ඇත්ත.,positive,positive,1,other
+1018,22,අත පය වනන්න එපා කියන්න,neutral,neutral,1,feedback
+1025,31,තොරණ හංදිය ස්වයංක්රීය ලාම්පු නෑ,negative,negative,1,complaint
+1036,19,ගාල්ලෙ එවන් ගම කෑවා,negative,negative,1,feedback
+1039,37,බඩු ලාලෝ.උඹ හොද දෙයක් දකින්නේම නැද්ද.,negative,negative,1,inquiry
+1055,38,බය වෙන්න දෙයක් නෑ තාම සමාජ ගතවෙලා නෑනේ,positive,positive,1,feedback
+1058,26,බඩු හරි වගෙයි. අපොඉ අපේ රට,negative,negative,1,feedback
+1060,27,තවත් පැතිරෙනකන් බලන් ඉන්නවද,negative,negative,1,feedback
+1068,14,පොඩි බබෙක් වගේ,neutral,neutral,1,feedback
+1073,41,ඊළඟ රූප රාමුව පූජිත ගහනවා දුවන්නට හිටන්ටා,negative,negative,1,feedback
+1076,21,හිනා කාලා මැරෙනවා ඕයි,conflict,conflict,1,feedback
+1077,15,මටත් එහෙමයි ඕයි,neutral,neutral,1,feedback
+1079,28,මමත් ඉතිං ඔන්න ඕහේ හා කිව්වා,conflict,positive,0,feedback
+1080,31,තොපි දෙන්නම කියන්නේ අමූලික බොරු,negative,negative,1,complaint
+1102,9,ජනාධිපති.,neutral,neutral,1,other
+1108,31,පූජිත කුජීත වැඩනෙ කරලා තියෙන්නේ,negative,negative,1,complaint
+1111,21,පරිප්පුවක්ම වෙලා බොලේ,negative,negative,1,feedback
+1113,38,බඩු උස්සනව බස්සනව. මුන්ට මාර ජොලි ඇති.,positive,positive,1,feedback
+1115,12,සුරංගනා කතා.,neutral,neutral,1,other
+1117,35,ජනතාවට දුක්විදල අඩුවෙන් කන්න වෙන්නෙ,negative,negative,1,complaint
+1137,26,දෙකොනින් හිනා ජනතාව රැවටීම,negative,negative,1,feedback
+1138,12,20 බදුර්දීන්,neutral,neutral,1,other
+1155,23,මේක තවත් නාටකයක් විතරයි,negative,neutral,0,feedback
+1184,27,කියන දේ අහවි කියලා තමයි බය.,negative,negative,1,feedback
+1187,39,අදෝ චීනා තෝ නිරෝධානය වෙලාද හොරටද ඇත්තටද,negative,negative,1,complaint
+1199,10,ලිං ගෙම්බෝ,negative,negative,1,feedback
+1204,11,සහතික ඇත්ත.,positive,positive,1,feedback
+1209,13,ඔටාර ට කියපන්,negative,neutral,0,feedback
+1232,39,අනේ පල පල බ්රැන්ඩික්ස් යන්ඩ. උඹල බබ්බු.,negative,negative,1,feedback
+1266,5,රමේෂ්,neutral,neutral,1,other
+1287,24,හොද වැඩක්.අසරණ කම්කරුවෝ.,conflict,conflict,1,feedback
+1290,11,පිලිපදියි ද,neutral,neutral,1,other
+1297,20,ඔයාට අනුර ස ද කිවුවෙ,neutral,neutral,1,feedback
+1307,18,බොරු පතුරුවන්න එපා,positive,positive,1,feedback
+1310,41,ඒකට තමයි ග්රාමසේවක සහතිකයක් ගේන්න කියන්නේ,neutral,neutral,1,feedback
+1329,22,බොරු පොශ් තමයි හැමතැනම,negative,negative,1,complaint
+1336,24,අපේ චන්දෙට පස්සේ උනා වගේ,neutral,neutral,1,feedback
+1342,35,15 දි අපි පල්ලෙහා වෙලේ මඩකරි අල්ලනව,neutral,neutral,1,feedback
+1345,15,සමිතා ටීචර් නේ.,neutral,neutral,1,feedback
+1349,17,නෙදකින් පවු කාරයා,negative,negative,1,complaint
+1354,42,පැණි හැලියේ වැටුණු ඇඹලයාගේ කථාව මතක් වුණා.,neutral,neutral,1,feedback
+1355,27,පුතත් නෑ. මධුමි මිසුත් නැහැ,negative,negative,1,complaint
+1357,9,අවුල් වගේ,negative,negative,1,complaint
+1359,20,රවටාගෙන හෙහ් හෙහ් හේ,negative,negative,1,feedback
+1370,31,බය වෙන්න එපා තාම සමාජගත වෙලා නෑ,positive,positive,1,feedback
+1371,11,ගම්බද ජනතාව,neutral,neutral,1,other
+1388,34,මේ දවස්වල අපේ අනුර සට අවුරුදු වගේ.,positive,neutral,0,feedback
+1389,18,ජවිපෙ මධ්යම කමිටු.,neutral,neutral,1,other
+1406,25,හිරු ට හරි සතුටු ඇති දැන්,positive,positive,1,feedback
+1407,16,මේ මොන විකාරයක්ද,negative,negative,1,inquiry
+1411,18,එතකොට කාමරේ යාලුවට,neutral,neutral,1,feedback
+1413,38,ජීවත් වෙලා ඉන්න රටක් තියෙනවනෙ ඒකම මදිද,positive,positive,1,feedback
+1424,31,අහවල් වැඩෙත් කැලේදීම කරන්න ඇති.,negative,neutral,0,feedback
+1434,22,40 හැවිරිදි දෙදරු මවක.,neutral,neutral,1,feedback
+1435,6,නිධානය,positive,positive,1,other
+1436,10,කුණ්ඩලකේශී,neutral,neutral,1,other
+1440,14,කුණ්ඩලකේසී 2.0,neutral,neutral,1,other
+1450,30,වැදපන්. තව ටික කාලයයි කොහොමත්.,conflict,neutral,0,feedback
+1464,23,ඔය තියෙන්නේ නැති ඩොලර්.,neutral,positive,0,feedback
+1468,33,අපේ කරුමේ. නැත්තම් කුවේනිගේ සාපෙ.,negative,negative,1,complaint
+1480,36,අඩෝ ලොක්කා ගිහින් තියෙන්නේ ජෙට් එකක.,neutral,neutral,1,feedback
+1481,29,ඌට ප්රයිවෙට් අපිට පබ්ලික් මනි,neutral,neutral,1,feedback
+1506,36,දැන් එතකොට මේකට වග කියන්නෙ කවුද අපිද,negative,neutral,0,inquiry
+1528,15,අපේ රට ආඩම්බරය්,positive,positive,1,feedback
+1533,30,අවුලක් නෑ තාම සමාජ ගතවෙලා නෑනේ,positive,positive,1,feedback
+1535,32,නිදුක් නිරොගී සුව ප්රර්ථනා කරමි.,positive,positive,1,greeting
+1540,13,එතකොට කොමඩු 2,neutral,neutral,1,feedback
+1542,8,කවුද මේ.,neutral,neutral,1,other
+1548,20,මූ තනිකර ගොං හරකෙක්.,negative,negative,1,feedback
+1554,40,ඇත්තටම ලංකාවේ ගැහැනු මේ තරම් මහත කැත ඇයි,negative,negative,1,complaint
+1555,27,උන්ට හොදට කන්න තියෙනව මෙහෙ.,positive,positive,1,feedback
+1558,17,ජාතික කිරි මව්වරු,neutral,positive,0,feedback
+1568,28,බලපන් මොළ හතා නැති එකේ පාඩුව,negative,negative,1,feedback
+1582,33,පව්. අන්තිමට මස් කට්ටක් හම්බවෙලා.,negative,negative,1,complaint
+1588,19,අම්මො ඇයි බං මෙහෙම.,neutral,neutral,1,inquiry
+1607,14,කි තැනක ඔය වගේ,neutral,neutral,1,feedback
+1610,34,දැන් ඕකට ගිය කට්ටියට මොකක්ද වෙන්නේ,neutral,neutral,1,inquiry
+1620,29,ඔය ගැන රිසි ආච්චිට කියන්න එපා,neutral,neutral,1,feedback
+1621,26,ගොඩක් හාරන්න ඇති නේ හික්ස්,negative,neutral,0,feedback
+1632,37,ඒ වුනාට ප්රමිති සහතිකයක් තියෙන්න ඕනෙ.,neutral,neutral,1,feedback
+1665,31,මදිවට හදපල්ලකො දැන් ඩයිනොසෝරත්.,negative,negative,1,feedback
+1666,13,යෙ එකක් දාමු.,neutral,neutral,1,feedback
+1668,36,බුදු අම්මෝ චීනෙන් නම් තව මොකුත් එපෝ.,negative,negative,1,feedback
+1670,30,මුං මුළු ලෝකෙම කන්න වගේ හදන්නේ,negative,negative,1,feedback
+1673,4,පට්ට,positive,positive,1,feedback
+1704,4,උඹලට,negative,neutral,0,feedback
+1710,14,ඔබ හරියටම හරි.,positive,positive,1,feedback
+1716,11,ජන්දය ඉවරයි,neutral,neutral,1,other
+1720,34,මූ හින්දා තමයි සයිටම් වහුනේ. පරයා.,negative,negative,1,complaint
+1738,16,උගත් ගොත්රිකයෙක්,conflict,positive,0,feedback
+1757,28,ඉදිරිපත් වෙන්න ඇයි මන්ද පමා.,neutral,neutral,1,inquiry
+1775,28,කඳු රට පර දෙමෙල්ලුගේ වැඩ ඕවා,negative,negative,1,feedback
+1778,16,නල්ල මලේ පුරසාරම,negative,negative,1,feedback
+1792,14,රැස්පෙක්ට සර්.,positive,positive,1,feedback
+1794,30,චීනගේ ටෙස්ටින් කිට් ඔහොම තමයි,neutral,neutral,1,feedback
+1801,40,හරිම කනගාටුයි. ඔබට නිවන් සුව ලැබේවා දුවේ,conflict,positive,0,greeting
+1802,29,අකල් මරණයක් නිවන්සුව අත්වේවා.,positive,conflict,0,other
+1803,36,ලස්සන කෙල්ලෙක් පවු කොරෝනා නෙවෙයි නේද,conflict,conflict,1,inquiry
+1812,7,අනේ පවු,negative,negative,1,feedback
+1833,42,වදුරව මාලිගාතැන්නද ලොක්ඩවුන් කරලා තියෙන්නේ,negative,neutral,0,feedback
+1839,18,මඩේ පිපුණු නෙළුමක්,positive,positive,1,feedback
+1841,35,ඔබ පියා වැනිම උගතෙක් වීම සතුටක් දුව,positive,positive,1,feedback
+1845,35,ඒකට නම් කඳුළු ආවා.සුභ පැතුම් ඒ ළමයට,positive,positive,1,greeting
+1847,40,අර හප්පපු එකා ගැන කඳුළු ආවේ නැද්ද. පව්නේ,negative,negative,1,inquiry
+1851,30,අති දක්ෂ දියණිය නුබට ජයම වේවා.,positive,positive,1,greeting
+1857,10,සුභ පැතුම්,positive,positive,1,greeting
+1874,40,යහපත් පුරවසියෙක්වී රටට ශාන්තිය ලබා දෙන්න,positive,positive,1,feedback
+1887,31,ඛූදූ සරණයි. සුබ පැතුම් දියණියට.,positive,positive,1,greeting
+1899,25,පරණ බෝතල් හෙම තියේ. ඕනෙයි,neutral,neutral,1,feedback
+1906,24,උබේ අම්මා කොහෙද බං ඉන්නේ,neutral,neutral,1,inquiry
+1907,9,හික් හික්,negative,negative,1,feedback
+1910,27,හිරු දෙරණ ඔබගේ අවධානය පිණිස,neutral,neutral,1,feedback
+1942,31,තව එක පාරක් ඇන්නනම් 25යි අපරාදේ,negative,negative,1,complaint
+1953,32,ඉන්දියාව කොරෝනා පිඹිනවා මකරා වගේ,negative,negative,1,feedback
+1961,38,අප්රේල් පලවෙනිදම ඕක කිව්වනම් හරි ලොක්ක,negative,positive,0,suggestion
+1967,26,ඇයි අපි එහෙනං එක ගහන්ඩ ඕනේ,neutral,neutral,1,inquiry
+1993,39,ඔබ දිනුව.මනිසික සුවයෙන් ඉන්න.තෘවන් සරනෛ,positive,positive,1,greeting
+2002,32,මුව යවන්න කිබුනෙ පිස්සන් කොටුවකට,negative,negative,1,suggestion
+2014,25,අමිශ්ර හෙළ ජාන තමයි ඉතින්,neutral,neutral,1,feedback
+2021,13,ඇයි අර පොලිස්,neutral,neutral,1,inquiry
+2079,24,හැමදාම කරනකොට ඔහොම වෙනවා,neutral,neutral,1,feedback
+2080,25,අබේවෙල කිරි මණ්ඩලය පරාදයි,negative,negative,1,feedback
+2101,27,තවත් පැතිරෙනකල් බලන් ඉන්නවද,negative,negative,1,feedback
+2123,5,වන්දි,neutral,neutral,1,other
+2133,18,සම්පුර්ණ ඇත්ත කතාව,positive,positive,1,feedback
+2161,42,තව හොඳ හොාද නැටිලි පෙන්නයි ලොක්කට ඉස්සරහට,negative,negative,1,feedback
+2163,18,සුපිරි පොලිස්සියක්,positive,positive,1,feedback
+2164,15,ලබා උපන් හැටියට,neutral,neutral,1,other
+2171,42,පොර ට හඳුනා කියලා කාලේ රඟපාමක් වෙන්න බැරිද,neutral,neutral,1,inquiry
+2173,26,ටම්ප් දකිනකොටත් අප්පිරියයි,negative,negative,1,feedback
+2204,39,භික්ෂූන් වහන්සේලා සැකයට භාජනය වන කරුණක්,negative,negative,1,feedback
+2209,11,රට පුරා බඩු,neutral,positive,0,feedback
+2219,30,යුද්ධය ඉවර කරපු අපිට ඔක කජ්ජක්,positive,positive,1,feedback
+2244,20,නිශාන්ත මුතුහෙට්ටිගම,neutral,neutral,1,other
+2254,31,අපාරාදෙ කියන්න බෑ මෙලෝ රහක් නෑ.,negative,negative,1,complaint
+2258,18,හැලෝවීන් එකට සෝක්.,positive,positive,1,feedback
+2262,11,සුපිරි කතාව,positive,positive,1,feedback
+2270,35,ලිප්ටික් ගාලා තියෙන්නේ සවලෙන්ද මංදා,negative,neutral,0,feedback
+2279,25,කොහෙන්ද හොයා ගන්නවද මන්දා,neutral,neutral,1,feedback
+2280,22,ආආආ මේ ඉගිලෙන මාළු නේද,neutral,neutral,1,inquiry
+2291,6,හැඩවැඩ,positive,positive,1,other
+2295,15,වඩාගන්න හිතෙනවා,neutral,neutral,1,feedback
+2297,14,මල. ක් ලෙලියයි,neutral,negative,0,feedback
+2303,11,තූ නොදකින්.,negative,negative,1,complaint
+2315,35,කොමෙන්ටු බලන්න ආවේ. තාම එකක් වත් නෑ,neutral,negative,0,feedback
+2317,11,කාම දේවතාවී,neutral,neutral,1,other
+2348,34,මේ විකට රංගන දැන් තිත්තවෙලා අප්පා,negative,negative,1,complaint
+2357,36,හොදට තිබුණු රටක් අපි වැවැටිච්ච තැනක්,negative,negative,1,feedback
+2360,21,මේක වගේ නෙවේ එක වැඩී.,neutral,neutral,1,feedback
+2367,29,දැන් ඔය බබා හම්බවෙලා තියෙන්නේ,neutral,neutral,1,feedback
+2368,32,අඩෝවු අපි යුද්ධ කරපු කස්ටිය හරිය,negative,negative,1,feedback
+2378,15,වන්දි ගත යුතුයි,conflict,neutral,0,other
+2399,26,බලන් ගියාම හැමතැනම කොරෝනනේ,negative,negative,1,feedback
+2407,38,කවුද බං ඔය දෙබස් අහන් හිටිය වගේ කිව්වෙ,neutral,neutral,1,inquiry
+2415,26,මේ මම හතර පෝයට සිල් ගත්නවා,positive,positive,1,feedback
+2421,8,ඒක හොරකම,negative,negative,1,complaint
+2425,23,පතිවත රැකගෙන ජීවත්වෙන්න,neutral,neutral,1,suggestion
+2426,22,අඹේවෙල කිරි පට්ටිය වගේ,neutral,neutral,1,feedback
+2432,39,ලස්සන කෙලි පොඩ්ඩ. පරිස්සමට ජීවත් වෙන්න.,positive,positive,1,feedback
+2440,42,කොච්චර පොෂ් වෙන්න බැලුවොත් ගොඩයා ගොඩයා තමා,negative,negative,1,feedback
+2442,14,මඩයෙක් කියන්නෙ,negative,negative,1,feedback
+2457,38,මරාට දැන් චීන භාෂව නියෙමට පුලුවන් ඇති.,positive,positive,1,feedback
+2460,30,ඇය් මේක වලින් කරන්න බැරි වුනේ.,neutral,negative,0,suggestion
+2467,40,කොටන් අදින ඇත්තු මෙයාලා පෙරහැරේ යන ඇත්තු,neutral,neutral,1,feedback
+2475,11,අයියෝ සල්ලි,negative,negative,1,feedback
+2483,35,කාගෙ උනත් පොඩි දරුවන් හරිම සුන්දරයි,positive,positive,1,feedback
+2508,38,බෙහෙත් ගන්න විතරද මිනිස්සු එලියට යන්නෙ,neutral,neutral,1,feedback
+2511,21,ඇයි ඇස් පොට්ට කරගන්නද,negative,negative,1,inquiry
+2525,39,තැනට සුදුසු විදියට අඳින්නත් ඕන මෙහෙම බෑ,negative,negative,1,feedback
+2527,19,දැන් ෂැපද අයිබොවන්.,positive,positive,1,feedback
+2539,32,ඔප්පුව ගැන මොකුත්ම කියලා නැහැනේ.,neutral,negative,0,feedback
+2546,15,මානව හිමිකම් 2.,neutral,neutral,1,other
+2552,27,කලාද නැත්තම් වෙනම නීතියක් ද,neutral,neutral,1,feedback
+2565,32,මට හිතෙන්නේ චීනෙටත් කෙල වෙයි වගේ,negative,negative,1,complaint
+2571,38,පාණාතිපාතා වේරමණී සික්ඛා පදං සමාදියාමි,positive,positive,1,other
+2573,10,ඌරො මරන්නෑ,neutral,positive,0,other
+2575,41,ලංකාවේ අයෙමත් නරියෝ රජකරන්න පටන් අරන් වගේ,negative,negative,1,feedback
+2581,19,කැලේ මැදින් අ නරියා,neutral,neutral,1,feedback
+2583,40,වදුරු ප්රශ්නෙත් මේ වගේම උග්ර වෙනවා ලගදීම,negative,negative,1,feedback
+2586,42,නරි කැළෑව පොත කියෙව්වා නම් ඔහොම වෙන්නෙ නෑ.,negative,negative,1,complaint
+2596,14,නරියා සහ කැලෑව,neutral,neutral,1,other
+2602,18,මෝල් ගස් පුප්පිකාට,negative,neutral,0,complaint
+2612,34,අපේ එවුන් තව හොඳයි බං මුගේ හැටියට.,positive,positive,1,feedback
+2620,21,මූට කොරෝනා හැදුනෙම නෑ,positive,positive,1,feedback
+2634,32,මෙයාගේ හරිනං බලන්න ඕනේ පරීක්ෂණය.,neutral,neutral,1,feedback
+2637,24,මෙයාගේ ඒඩ්ස් බලන්න. ඇති.,negative,negative,1,feedback
+2638,28,රටම කරන්න තියෙනව වගෙ කියන්නෙ,neutral,neutral,1,suggestion
+2653,22,අමනූස්ස කතා කියන්න එපා,negative,negative,1,complaint
+2655,11,දැන් හරිනේ.,positive,positive,1,feedback
+2657,26,මේ පාරනම් බේරුමක් නැහැ වගේ,negative,negative,1,complaint
+2671,39,ම්බක් නිසා ගෙම්බෙක් උන තවත් හොරිකඩයෙක්.,negative,negative,1,complaint
+2672,11,ඩඩ්න්ස් නේද,neutral,neutral,1,other
+2679,7,ගාල්ලෙද,neutral,neutral,1,other
+2683,9,බදු මුදල්,neutral,neutral,1,other
+2702,18,හානේ. අදමයි දන්නේ.,positive,positive,1,feedback
+2707,27,ඕක දිගටම වැහුවත් කමක් නැතෝ.,neutral,neutral,1,feedback
+2710,29,මුං ඒ අස්සෙ පක්ශත් මාරු කරලා.,negative,neutral,0,feedback
+2715,37,බිරිඳ ට නැතුව ඇගේ යෙහෙළිය ට පමණක් ඇයි,neutral,neutral,1,inquiry
+2728,8,අබ සරණයි,negative,negative,1,greeting
+2755,29,පරයා මාස 6කට හිරේ යවන්ඩ වටිනව,negative,negative,1,complaint
+2775,16,සෑට මල පැනලා යකෝ,negative,negative,1,feedback
+2784,22,අපි මැරුණත් මුන්ට මොකෝ,negative,negative,1,inquiry
+2801,20,කෝ මේ අනිල් ජාසින්හ.,neutral,neutral,1,feedback
+2813,26,එතකොට මසාජ් පොට් ඒවා ඇරලද.,neutral,neutral,1,feedback
+2827,26,හිටං පතෝලයගෙ වැඩ තමයි ඉතිං,negative,negative,1,feedback
+2845,23,සිරි ව හිර කරන්නෙ මොකද,negative,negative,1,suggestion
+2849,7,පතෝලයා.,negative,negative,1,feedback
+2859,30,මෙයා බ්රැන්ඩික්ස් වලට සම්බන්ධද,neutral,neutral,1,feedback
+2870,35,ඔව් ඔව්.හොරකම් කරන්නත් හරිම දක්ෂයි.,negative,negative,1,complaint
+2876,38,වේලුපිල්ලෙ ප්රබාකරනුත් නිරෝධානය වෙනවලු,neutral,neutral,1,feedback
+2877,42,එතකොට අර යන වැල ක්ලිප් එක ගැන මොකද කියන්නේ,negative,negative,1,feedback
+2888,38,තම්බියෝ බොරු කියන්නෙම නැහැ. අනේ මගේ කට,negative,conflict,0,complaint
+2901,31,බැෂිල්ට විෂිල් එකක් දෙන්න ලමායි,neutral,neutral,1,suggestion
+2912,34,මූට හරි අමාරුයි විනාඩි 35 ක් ඉදලා.,negative,negative,1,complaint
+2918,34,දැන් 225ම හොඳයි. ඒකනේ 23ක් දුන්නෙ.,positive,positive,1,feedback
+2920,41,නෝනේ. කොරොනා තිබ්බත් නෑම කියපන් මයෙ අම්ම.,positive,positive,1,feedback
+2925,6,සමාජයේ,neutral,neutral,1,other
+2938,3,අපේ,neutral,neutral,1,other
+2961,33,අප හරි ලොකු නිසා අපි බයයි මහත්තයෝ,negative,negative,1,feedback
+2970,27,තොරතුරු මගහරින්ට උත්සාහ කර,negative,negative,1,feedback
+3000,31,හුකෑස්. දැන් පොලිසියටත් කොරෝනා.,negative,negative,1,complaint
+3020,25,අපේ ස කිවනවනම් අවුලක් නෑ.,positive,positive,1,feedback
+3031,29,ඔබතුමාට ඕනෑ දෙයක් කරන්න අපි බ,positive,positive,1,feedback
+3037,33,කිරි හරක් ගෙන් ගසා කාපු ගොන් හරකා,negative,negative,1,complaint
+3040,6,සිරාවට,positive,positive,1,feedback
+3045,16,කෝ අනිල් ජාසින්හ,neutral,neutral,1,feedback
+3058,27,64 වියැති වයෝවෘද්ධ කාන්තාව.,neutral,neutral,1,feedback
+3079,31,දැන් ලංකාවෙ අයත් මේක කොපි කරයි.,negative,negative,1,feedback
+3086,38,නරි ඉන්දියන් කාරයෝ නරි වැඩම තමා කරන්නේ,negative,negative,1,suggestion
+3096,35,අවුරුදු 10කින් මුදල පියවන්න පුළුවන්,positive,positive,1,feedback
+3116,20,මෙන්න දානවනම් නිවුස්,positive,neutral,0,feedback
+3127,20,අපෙ හාමුදුරුවනෙ හුලං,conflict,neutral,0,feedback
+3142,22,එන්න. අපි තාලෙට කියමු.,neutral,neutral,1,feedback
+3156,42,උඹලට අඩු පොලියට බලු බෙට්ටක් උනත් කමක් නැහැ,negative,negative,1,complaint
+3165,22,හිට මකුණා ම තමා උඹ නම්,negative,neutral,0,feedback
+3166,8,හිටමකුණා,neutral,neutral,1,other
+3167,26,අනේ උබත් ඒ බෝම්බෙට අහූනානම,negative,negative,1,complaint
+3185,29,ඔබතුමාට නිවන්සුව ලැබේවා පතමු.,positive,positive,1,other
+3195,28,උතුම් පුද්ගලයෙකුගේ සමුගැනීම.,negative,conflict,0,feedback
+3203,34,චින්තක හැක හැක සිංහල බැහැ නේද ගොනෝ,negative,negative,1,inquiry
+3205,6,ඔබ හරි,positive,positive,1,feedback
+3206,30,එතුමා කියපු එක බොරුවක් කියන්න.,negative,negative,1,complaint
+3208,19,උඹ දන්න බිබක් නැහැ.,negative,negative,1,complaint
+3214,23,ඔන්න පටන් ාරන් තියෙන්නෙ,neutral,neutral,1,feedback
+3215,13,හරිම කනගාටුයි,negative,negative,1,complaint
+3223,27,පුතා දාගන්න බැරි වෙලා වගෙයි,negative,negative,1,feedback
+3232,36,දෙවියන් වහන්සේ අපව ගළවාගන්නවා නියතයි,positive,positive,1,feedback
+3233,30,ඔව් දෙය්යෝ ඇමෙරිකාව ගලෝ ගත්තනේ,neutral,positive,0,feedback
+3236,19,ජොසපියානු ප්රර්ජාව.,neutral,neutral,1,other
+3237,21,ඒකට නං මටත් හිනා ගියා,positive,positive,1,feedback
+3239,22,ආමේනියානු ජෝජියානු වගේ,neutral,neutral,1,feedback
+3247,25,තොන්ඩමන් වගේ කෙනෙක් මලොත්,negative,neutral,0,feedback
+3258,42,පස්සේ නම සිංහල නමකට වෙනස් කළා වෙන්න බැරි ද,neutral,neutral,1,feedback
+3261,24,මේ පොල්කරුවා නේ හත්වලාමෙ,negative,neutral,0,feedback
+3268,22,මුට නෙලන්න ඕනෙ අම්බානක,negative,negative,1,feedback
+3269,41,හැබැයි නෙලන අය දාගන තමයි වැඩේට බහින්න ඔ්න,negative,negative,1,feedback
+3272,16,මෙයත් අර පොකුරෙද,neutral,neutral,1,feedback
+3280,27,අයිතිකරුවන් සිංහල වෙන්නැති.,neutral,neutral,1,feedback
+3287,26,ඔන්න අම්මලා පින් සිදු වේවා,positive,positive,1,greeting
+3300,29,ලන්කාවෙ බාල වයස් විවාහය තහනමට,conflict,conflict,1,complaint
+3318,35,මුලින්ම හරියට විස්තරේ කියවලා හිටපං.,neutral,neutral,1,feedback
+3324,29,ඔව්වා අපිට පිලිගන්න බෑ ලොක්කා,negative,negative,1,feedback
+3330,36,මුලින්ම කියන්න ඉන්දියාවෙන් ආවාදනැද්ද,neutral,neutral,1,inquiry
+3336,9,අනේ මන්දා,negative,negative,1,feedback
+3342,40,මේ පාර ස ගෙ පිහිට විතරක් ඇතිවෙයි ද මන්දා,negative,negative,1,feedback
+3351,40,බෝම්බ කරුවන්ගේ නීතිඥයා දැන් අධිකරණ ඇමැති,negative,negative,1,complaint
+3363,17,ටැන්කියු. ලස්ස 69,positive,positive,1,feedback
+3366,38,ඊලග 69 ලක්ෂයට මටනම් ඉන්න බැරිවෙයි වගේ.,negative,negative,1,feedback
+3369,20,ගොට්ටට නියම තෑන දීලා,negative,negative,1,feedback
+3370,23,පහත් තැනින් යයි ගලා ජලේ,neutral,neutral,1,feedback
+3389,40,හොඳට තිබිච්ච රටක් අපි වැටිච්ච තැනක් සෑර්,negative,negative,1,feedback
+3401,33,තව රට වටෙන්ම අහු වෙනකන් නොදා ඉමු.,neutral,neutral,1,feedback
+3403,42,මේක අපේ සජිත් මහත්මයා තවම දන්නේ නැතුව ඇති.,neutral,neutral,1,feedback
+3412,37,ලෝකයට චීනය ලංකාවට ගම්පහ නැද්ද ප්රසන්න,neutral,neutral,1,inquiry
+3424,32,තව රට වටෙන්ම අහු වෙනකන් නොදා ඉමු,neutral,neutral,1,feedback
+3431,34,ඉක්මනින් පියවර ගන්න දැන් වෙලාව හරි,positive,positive,1,feedback
+3434,25,එයාලා හැංගිමුත්තන් කරනවා.,neutral,negative,0,feedback
+3438,27,හප්පා අපි අරිම ශ්රේෂ්ටෛ නේ.,positive,positive,1,feedback
+3440,5,ඔව් ස,neutral,positive,0,other
+3450,16,බලෙන් වැඩ ගන්නවා,negative,negative,1,complaint
+3466,19,නේවි එකටත් උනේ ඔීකම,neutral,neutral,1,feedback
+3468,6,රෙස්ට්,neutral,neutral,1,other
+3485,11,සහතික ඈත්ත.,positive,positive,1,other
+3507,20,එතකොට දැන් වරද කාගේද,neutral,neutral,1,inquiry
+3514,14,නියමයි. බැබුන්,conflict,positive,0,feedback
+3525,25,අපේ හරින් සර්.ජය වේවා සර්,positive,positive,1,greeting
+3539,40,අනිත් පැතිත් නතර නොකරන්නේ මන්ද ලොකු එකක්,negative,negative,1,suggestion
+3540,16,හොරන ගැන මීක් නෑ,negative,negative,1,complaint
+3542,32,මෙතන කලේ හිතාමතාම් රෝහල් ගතවීමක්,negative,negative,1,feedback
+3565,15,උඹ දෙරනෙද හිරුද,neutral,neutral,1,inquiry
+3567,25,චන්දේ ඉවරනේ ශෝ ඉවරයි දැන්,neutral,neutral,1,feedback
+3579,37,මොන විහිළුවක් ද රටේ ජනගහණය සලකලා නෑනේ,negative,negative,1,inquiry
+3580,25,ඇයි. බැරිද පලවෙනියට එන්න.,conflict,neutral,0,inquiry
+3599,28,නම ත් ලස්සනයි. ඔයත් ලස්සනයි.,positive,positive,1,feedback
+3608,31,හකු බැහැපු කෑලි වල මොන හැඩ වැඩද,negative,negative,1,inquiry
+3614,38,චූ ලක්ෂි. රන්ජන් අයියා ගේ යාලුවෙක් නේද,neutral,neutral,1,inquiry
+3616,18,කුණු කය නිස්සාරයි.,negative,negative,1,feedback
+3675,8,ඇයි 195.,neutral,neutral,1,other
+3678,35,ඉහළම විදේශ විනිමය උපයන සමාගම 15000.,neutral,neutral,1,feedback
+3680,28,මරව මරව අතිකාල කරවල. ලැජ්ජයි,negative,negative,1,complaint
+3688,14,ඒ එහෙන් ආපු අය,neutral,neutral,1,feedback
+3702,38,දැන් නම් ඉතාලිය වගේ වේගෙන එන්නෙ කොල්ලො,neutral,neutral,1,feedback
+3704,31,බය වෙන්න එපා යකුනේ සෑර් ඉන්නවා.,positive,positive,1,feedback
+3716,11,හරියටම හරි.,positive,positive,1,feedback
+3727,11,එතකොට ලංකාව,neutral,neutral,1,other
+3729,36,මේකෙන් ගැලවෙන්න තව සෑහෙන කාලයක් යාවී,negative,neutral,0,feedback
+3750,41,චනිදිමාලයගෙ බඩු පාටියට කලින් මෙක උනෙ නැනී,negative,negative,1,feedback
+3769,6,මූ නම්,neutral,neutral,1,other
+3778,27,සර් හොඳ නැත්තං විකල්පය කිම.,neutral,neutral,1,feedback
+3783,29,මං මේ නිකන් අහන්නේ මල ගෙදරින්,neutral,neutral,1,feedback
+3784,4,බැහැ,negative,negative,1,feedback
+3791,16,රංජා කිව්වා හරි.,positive,positive,1,feedback
+3792,33,මුන්ට ලැජ්ජාවක්වත් නැද්ද කාලකන්ණි,negative,negative,1,complaint
+3795,20,අකුලොලම මැරිලා පලයව්,negative,negative,1,feedback
+3812,18,ඇති හැකි අයට පමණයි,neutral,neutral,1,feedback
+3830,22,එහෙම්මම එපා අනේ.පවුනේ.,negative,negative,1,complaint
+3851,27,ඒ වුනාට 23 තියෙනවනේ. ඒ මදිද,neutral,neutral,1,feedback
+3870,29,බයියන්ගේ තවත් ජයග්රහණයක් හුරේ,conflict,conflict,1,feedback
+3871,7,මූ කවුද,negative,neutral,0,inquiry
+3873,19,බෞද්ධ අපිට හොද වැඩේ,positive,positive,1,feedback
+3874,12,කොරෝනද දන්නෑ,negative,negative,1,complaint
+3877,25,13 වෙනිදාටත් අසනීප උනොත්.,negative,neutral,0,feedback
+3883,25,ගං මං පිල කිවුවම අඩු කුලේ,negative,negative,1,feedback
+3884,40,ක්රියාවෙන් නම් අඩු කුලේ වැඩ තමයි කරන්නෙ.,negative,negative,1,suggestion
+3901,37,රෙකෝඩ්ස් ටික ගනිල්ලකො ඇමිනෙන්නේ නැතිව,negative,negative,1,feedback
+3903,12,නොසලකා හැරීම,negative,negative,1,complaint
+3934,18,මොන බූවෙක්ද බං මූ.,negative,negative,1,complaint
+3936,33,ගොනෙක් වුනාට ගොන් කතා ලියන්න එපා.,negative,negative,1,complaint
+3940,42,මේක කතාව තමයි අද හෙටම එන්න තියන අලුත්ම එක.,neutral,neutral,1,feedback
+3946,28,අයියෝ. ඒකත් අපිද ගෙවන්න ඕනේ.,negative,negative,1,feedback
+3965,15,කොල්ලොම තමයි නේ,neutral,neutral,1,feedback
+3982,25,69 69 69 69 69 69 ජයවේවා.,positive,positive,1,greeting
+3995,20,වෛද්ය පර්යේෂණ ආයතනය.,neutral,neutral,1,feedback
+4020,14,රටින් එන උන්ව.,neutral,neutral,1,feedback
+4026,18,සම්පූර්ණයෙන් එකගයි,positive,positive,1,feedback
+4032,39,ඇයි හු ටෙස්ට් ටෙස්ට් කියලා මොනවද කරන්නෙ,negative,negative,1,suggestion
+4051,19,රටකට ඕනේ අපමණ අගයක්,positive,neutral,0,feedback
+4054,25,ඉතින් දැන් කරපංකෝ එහෙනම්.,negative,negative,1,feedback
+4061,27,අනේ යකෝ තෝ වගේ මෝඩ මූසලයෙක්,negative,negative,1,complaint
+4099,37,පාකිස්තානයේ සිද්ධිය තමයි නැඟැලම ගියේ.,positive,positive,1,feedback
+4106,42,මොනවද ලොල්ලො වපුරලා තියෙන බීජ සම්බාද නාඩූද,negative,negative,1,complaint
+4115,19,කොල්ලත් ලස්සනයි නේ.,positive,positive,1,feedback
+4120,19,රංගන ශිල්පිනියක් බං,neutral,neutral,1,feedback
+4133,15,මහ පුදුම මඟුලක්,negative,negative,1,feedback
+4141,25,ළමයි කොහොමද විභාගයට එන්නෙ,neutral,neutral,1,inquiry
+4148,39,හෙට සිට සියලු බස් රථ ආසනගත මගීන්ට පමණයි,neutral,neutral,1,feedback
+4151,19,දීපව්යාප්ත වෙලා වගේ,neutral,neutral,1,feedback
+4153,40,කියලා වැඩක් නැ මචං බගෙට බාගයක් බදු ගහලා.,negative,negative,1,complaint
+4168,38,එතකොට ආයෙ දිග නිවාඩු ලැබේන් නැති වෙයිද,negative,negative,1,inquiry
+4170,20,තප්පුලන්නෙ නතුව හිටු,negative,negative,1,feedback
+4173,15,සාදු සාදු සාදු.,positive,positive,1,greeting
+4187,25,කෝ බං සුපිරියි අයිකොන් එක,conflict,positive,0,feedback
+4189,39,වල් ඌරෝ. තොත් දැන් ඕකටම යටවෙලා මැරියන්.,negative,negative,1,complaint
+4193,4,නැහැ,negative,negative,1,complaint
+4211,32,උඹලා හැමදාම කලේ ජාතික අපරාධ තමයි,negative,negative,1,feedback
+4213,28,තවත් අවස්ථාවදි ඊනියා වියතෙක්,negative,positive,0,feedback
+4224,13,වියතක් ගිය උඩ,neutral,positive,0,feedback
+4226,19,හරිම බඩුවක් නේ මෙයා,conflict,neutral,0,feedback
+4234,19,නොදොකින් පෙරේත වැඩ.,negative,negative,1,feedback
+4259,16,කොහොමද දැන් ශෙපද,positive,positive,1,feedback
+4265,41,සිරි ලාංකන්ස් ඉඟුරු දීලා මිරිස් ගත්තා වගේ,negative,negative,1,feedback
+4270,29,හොද වෑඩේ පෑල් බෑදගෙන ගියේ කඩේ,negative,negative,1,feedback
+4289,34,කරදරයක් නොවේවා කියා ප්රර්ථනා කරනවා,positive,positive,1,feedback
+4291,17,ආයෙත් බඩු හරි වගේ,neutral,neutral,1,feedback
+4296,24,විශ්වය පුරා බඩඑලිය ගියා.,negative,negative,1,feedback
+4297,25,දැන් අපි සෝමාලියාවට ලඟයි.,neutral,neutral,1,feedback
+4298,18,වචන දෙකයි හොඳ වැඩේ,positive,positive,1,feedback
+4305,21,හැන්ඩ් ජොබ් එකක් ඕකේද,negative,neutral,0,feedback
+4308,13,ඇයි අත කැඩිලද,negative,negative,1,inquiry
+4323,13,අපාය පේන මානේ,negative,negative,1,feedback
+4326,21,ජිල්ෆිට් හුකෑස් හූ හූ,negative,negative,1,complaint
+4327,15,අපි තමා අන්පිට්,negative,negative,1,feedback
+4333,24,කන්ඩ නැතුව අපි අන් පිට්.,negative,negative,1,feedback
+4339,17,අපොයි මොකද නැත්තේ,negative,neutral,0,feedback
+4359,38,යන එන තැන් නැති වෙයි කියලා යන එන තැන්.,negative,negative,1,feedback
+4380,29,මී උණ. වෙන මොකවත් නොවේ මී උණ.,negative,negative,1,feedback
+4381,38,මී උණ මරණ නෙවෙයි නේද බොරු හෙඩිම ක් නේ.,negative,negative,1,inquiry
+4382,16,මී උණ 19 6000 9.,negative,negative,1,feedback
+4386,36,කොවිඩ් වලට වැඩි හානියක් නිහඩවම කරනවා,negative,negative,1,feedback
+4387,22,6118 මී උණ රෝගීන් නේද.,negative,negative,1,inquiry
+4390,28,ඌරු තෙල් නැති වෙන තරමට හොඳයි,positive,positive,1,feedback
+4394,13,ලාංකික සම්භවය,neutral,neutral,1,feedback
+4397,26,මදෑ කොලා ඔවු එහෙම නැතුව බෑ,negative,negative,1,feedback
+4412,24,ජෝර්දානයේ ඇඟළුම් කම්හලක.,neutral,neutral,1,feedback
+4426,35,මාරු වෙන්න ඕනම ග්රහය නීචවෙවී ඉන්නව.,negative,negative,1,feedback
+4431,38,මූ නම් හරකෙක් නෙමෙයි හරක් ගෙනාපු නැවක්,negative,negative,1,complaint
+4443,25,දිවුලපිටිය ඉඳන් කරන්න ඇයි,neutral,neutral,1,suggestion
+4444,24,කරාපිටිය ශික්ෂණ රෝහලේ දී,neutral,neutral,1,complaint
+4446,24,දෙන්නා එහෙම යන්න ඇති නේද,neutral,neutral,1,inquiry
+4447,29,ළමයගේ පාසල තහවුරු වෙලා නැද්ද.,negative,neutral,0,inquiry
+4451,16,හමුවුණේ අහම්බෙන්,neutral,neutral,1,feedback
+4472,35,දිව දෙකක් තියෙන සත්තු තමයි පොලිසියේ,negative,negative,1,feedback
+4481,16,මුණ කචල් කද ආතල්,conflict,conflict,1,feedback
+4485,19,මූන කැතයි ඇඟ සුරතල්,conflict,conflict,1,feedback
+4493,41,මේක හොදා ලංකා ඌරු මස් සංසදයේ එකේ පල කරන්න,neutral,neutral,1,suggestion
+4503,35,බස් ගාස්තු වැඩි කිරීම් ප්රකාශක තුමා,neutral,neutral,1,feedback
+4513,29,20 සම්මතවෙනකන් රට නිහඬ කරගන්න,neutral,neutral,1,feedback
+4522,19,යකාදූව නෙමේ යකහටුව.,negative,neutral,0,feedback
+4551,31,කොරෝනා වෙන්න බෑ මී උන වෙන්න ඇති,negative,conflict,0,feedback
+4555,12,උම්මා බබා කෝ,neutral,neutral,1,feedback
+4576,26,ලංකාවටත් එන්න කියපල්ලකෝ බං,neutral,neutral,1,feedback
+4583,24,අනිවාර්යයෙන් පවුලේ වැඩක්,neutral,neutral,1,feedback
+4587,41,225 ක් කට්ටියට දීල ඉතුරු ඒව වෙන්දේසි දාමු,neutral,neutral,1,feedback
+4591,4,සෑර්,neutral,neutral,1,other
+4600,35,හොඳටම තිබුණු රටක් අද වැටිච්චි තැනක්,negative,negative,1,feedback
+4626,15,ප්රතිඅපනයනය කරන,neutral,neutral,1,feedback
+4636,25,රංගේ.ඒ පැත්තෙ එහෙම ගියාද.,neutral,neutral,1,feedback
+4663,3,එක.,neutral,neutral,1,other
+4673,35,ගෑනිට බැන බැන ඉදහන්. එතකොට හරි යයි.,conflict,conflict,1,feedback
+4685,20,ලංකාවෙ විස්කි තහනම්ද,neutral,neutral,1,feedback
+4692,32,පෞරාණික වාලම්පුරි 02ක් වාලම්පුරි,neutral,neutral,1,other
+4693,30,කවුද මිල තීරනය කරන්නේ.බෙල්ලා ද,neutral,neutral,1,suggestion
+4701,17,පොර හිරේ ගියා නේද,negative,negative,1,inquiry
+4702,13,039 වාලම්පුරි,neutral,neutral,1,other
+4714,13,ඉවරයි කේස් එක,conflict,positive,0,feedback
+4724,22,ටෙස්ට් එකක් කළ යුතුමයි,neutral,neutral,1,suggestion
+4752,26,ගැමුණු මහත්මයා කියන දේ හරි,positive,positive,1,feedback
+4756,27,මූ කියන විදියට කොලානම් හරි,positive,positive,1,feedback
+4764,31,මංතීරු නීතියේ සති දෙක ඉවරයි ඕයි,negative,neutral,0,feedback
+4767,38,මෙහෙම ගිහාම හරියටම හරිද ගැමුණු මහත්තයෝ,positive,positive,1,feedback
+4780,28,සීයා මනමාලයා නාකි ඉලන්දාරියා,conflict,neutral,0,feedback
+4782,36,සමනලයින්ගෙ පැණි බොන පොරක් වෙන්න ඇති.,neutral,neutral,1,feedback
+4791,40,අමතර ආදායම නෙවෙයි ප්රධාන ආදායම හොරා කෑම.,negative,negative,1,complaint
+4795,26,මුන්ට ඡන්දෙ දුන්නෙ දැන දැන,neutral,neutral,1,feedback
+4801,19,කිරි ලීටරය රු 55 යි,neutral,neutral,1,other
+4807,29,පය බරවායට පිටිකර බෙහෙත් බැඳීම,negative,neutral,0,feedback
+4809,9,දැන් සැපද,positive,positive,1,feedback
+4810,33,කොමිස් කොටස වසල කබරයටද වසල රජුන්ට,negative,negative,1,feedback
+4818,19,මේක වගේ මුසල හරකෙක්,negative,negative,1,feedback
+4824,33,ඕකට හොදවැඩේ ඔලුව ඉදිමුන නායකයා.,negative,negative,1,feedback
+4826,39,ජනපති ට්රම්ප්ට පරණ ඇමරිකානු පුරවැසියෙක්,neutral,neutral,1,feedback
+4836,40,අනේ පව් අහිංසකයා. මූන දැක්කමත් හරි දුකයි,negative,negative,1,complaint
+4848,7,ජරා සතා,negative,negative,1,complaint
+4850,15,යකෙක් ආරූඩ වෙලා,negative,negative,1,feedback
+4852,34,හොදට තිබුණු රටක් අපි වැටිච්ච තැනක්,negative,negative,1,feedback
+4856,31,දෙව්දත් ගෙ පරම්පරාවේ එකෙක් වගේ.,negative,neutral,0,feedback
+4870,23,ඔයා අර්ජුන් කමලනාත් නේද,neutral,neutral,1,inquiry
+4871,34,මේ වගේ මෝල්වහන්සේලා හැමතැනම ඉන්නවා,negative,negative,1,feedback
+4885,23,ප්රසංශනීයයි. කලයුතු වැඩ,positive,positive,1,feedback
+4896,31,අල්ලපු රටෙන් ආදර්ශ අර්න්ද කොහෙද,neutral,positive,0,inquiry
+4914,35,ශිරා පරණ සෙල්ලම ආයෙ පටන් අරගෙන වගේ.,neutral,neutral,1,feedback
+4924,8,පැල වේවා,positive,positive,1,feedback
+4942,8,බොරු වැඩ,negative,negative,1,complaint
+4950,41,එක අවලන්ගු කලේ කොම්ස් මදි නිසා වෙන්න් අති,negative,negative,1,feedback
+4960,21,බයිසිකලුත් දෙනවද මෙයා,neutral,neutral,1,feedback
+4963,17,හොද වෙඩක් ජය පතමි,positive,positive,1,greeting
+4982,33,ලෝකෙ කොතනත් ඔවුනොවුන් එකතු වනු ඇත,neutral,neutral,1,feedback
+4989,37,1. ගෝටා 2. මහී 3. බැසී 4. චමා 5. නාමා,neutral,neutral,1,feedback
+4992,38,මොන පැටව්ද මචං දන්නේ නැති හින්ද අහන්නේ,neutral,neutral,1,inquiry
+4996,41,කිඹුලෙක්ට නම් ලාල්. ගවයෙක් නම් ලන්සි පෝල්,neutral,neutral,1,feedback
+5003,27,මුන් රටේ නීති වළපල්ලට යවනවා,negative,negative,1,feedback
+5004,36,රටේ තවත් දැවෙන ප්රශ්නයක් විසඳුන වගයි,positive,positive,1,feedback
+5009,19,ඒක තමයි හරිම විසඳුම,positive,positive,1,feedback
+5012,13,ග්රාමයාලා ගොඩ,neutral,positive,0,feedback
+5015,37,ලංකාවෙ නීති හදන උන්ට කේ ඉදං පිස්සු බං,negative,negative,1,complaint
+5021,20,නරි එහෙම මරනව නෙමෙය්,conflict,positive,0,feedback
+5031,20,සීනි බෝල සහ කැරට් අල,neutral,neutral,1,feedback
+5035,41,අපිට හරක් මස් කන්නත් අයිතියක් නැද්ද එතකොට,negative,negative,1,complaint
+5036,9,පෝක් කන්න,neutral,neutral,1,other
+5052,27,උබෙ නෑයෙක්ද තනකොල කන ටොයියො,negative,negative,1,complaint
+5057,21,හැම කැලේම අලි ඉන්නවාද,neutral,neutral,1,feedback
+5059,24,අලි කවද්ද යකෝ තණකොළ කෑවේ,negative,negative,1,complaint
+5061,39,වයස හරකුන් වැඩිහිටි නිවාස හදල ගාල්කලහැක,negative,negative,1,feedback
+5065,21,අමාත්ය මණ්ඩලය ගැන නේ.,neutral,neutral,1,feedback
+5072,36,නාමලයගෙ මාමණ්ඩිට හොද බිස්නස් තියෙයි.,positive,positive,1,feedback
+5075,7,ගෝ ඨාබය,neutral,neutral,1,other
+5091,42,මුන් අපිව හිනස්සල මරන්ඩ හදන්නෙ අනෙ සන්සාරෙ,negative,negative,1,suggestion
+5093,36,සජිත් ට පුරවන්ඩ දෙයක් ඉතුරු වෙල නැහැ,negative,neutral,0,complaint
+5101,29,මිස් ශ්රී ලංකා යුරෝපියන් ලුක්,neutral,neutral,1,feedback
+5108,38,මෙයාගේ පු පලන්න කැමති උන් ලයික් කරන්න.,negative,negative,1,suggestion
+5117,36,ඒක තමයි අර අමායා වගේ ඔයත් හරිම ශෝයි.,positive,positive,1,feedback
+5119,39,ආරතීගේ නම්බර් එක දෙන්න මෙයා. කරුණාකරලා.,neutral,neutral,1,suggestion
+5138,17,තාම ලස්සනයි මෙයා.,positive,positive,1,feedback
+5141,40,ලමයිනුයි තාත්තලයි නම් බේරෙයි. අම්මලා පව්,conflict,conflict,1,feedback
+5147,38,ගෝතාබය වෙලා හිටියනම් රටට මෙහෙම වෙන් නෑ,negative,negative,1,complaint
+5153,41,මාසෙකට 15000 ට කොළඹ සුපිරි නිවසක් කුලියට.,positive,positive,1,other
+5154,32,පව් අසරණයෝ. ඔහොම කරන්න එපා අයියෝ,negative,negative,1,suggestion
+5164,31,පව් තදබල මානසික ආබාධිත තත්වයක්.,negative,negative,1,complaint
+5165,22,ලඝු ලේකන පංති තියෙද බං,neutral,neutral,1,inquiry
+5166,40,ඔවු බන්. ඔය අපේ රටනෙ. එහේ තාම ඒව තියෙනව.,neutral,neutral,1,feedback
+5167,16,ගල් යුගයේ විෂයන්,negative,negative,1,feedback
+5169,20,දකුණේ එවුන් ඔහොම තමා,neutral,neutral,1,feedback
+5170,29,දකුනේ බුද්ධිමත් චන්ද දායකයෙක්,positive,positive,1,feedback
+5180,31,මාතර වීරයාට සුබ පැතුම් අනේ හුකේ,conflict,conflict,1,greeting
+5181,38,අතයි බෙල්ලයි නෙමෙයි යි කපා ගන්න තිබුනේ,negative,negative,1,feedback
+5188,29,රෝද දෙකට නෑ කියලා දන්නෙ නැද්ද,neutral,neutral,1,inquiry
+5201,26,පොලිස් මාමා වැඩේ ඇනුවා නේද,negative,negative,1,inquiry
+5205,23,ඕවා වැඩිය ගණන් ගන්න එපා,neutral,negative,0,feedback
+5211,41,මේ කියන්නේ කට් පීස් ද දෙන්න යන්නේ හපොයි ස,negative,negative,1,suggestion
+5225,35,රංගොජාගේ අසූචිත් උන්ට සදුන් සුවදයි.,negative,negative,1,feedback
+5233,38,ඉතාම කෘතහස්ත කලාකරුවෙක්. ඔබට නිවන්සුව.,positive,positive,1,other
+5235,38,මාධ්යවේදීන් සහ පියුමි අතර වෙනසක් නැහැ.,neutral,neutral,1,feedback
+5243,27,කරවල වලට ආසා කුනු රස නිසානේ,negative,neutral,0,feedback
+5248,21,අනේ අප්පේ අපේ රටේ ලා.,negative,neutral,0,feedback
+5258,29,වචන දෙකයි මට කියන්න තියෙන්නේ.,neutral,neutral,1,feedback
+5269,29,හොද වැඩේ මහ ලොකු කයිවාරු පප්ප,negative,negative,1,feedback
+5275,17,ජනතාවගේ කලාකරුවන්,positive,positive,1,feedback
+5279,39,මේක ටෙනිසන් දැනගත්තා නම් එදයි මැරෙන්නෙ.,negative,negative,1,feedback
+5281,11,හොරාට කරලා.,negative,negative,1,complaint
+5285,26,මේ පරයා එකත් රෙකෝඩ් කරලනේ.,negative,negative,1,complaint
+5286,22,නොදකින් තෝ වගේ පරයෙක්.,negative,negative,1,complaint
+5288,34,අතට එන ගාන පිළිබඳ ආකර්ෂණය මදි වගේ.,negative,negative,1,feedback
+5298,41,හොක් හොක් හොක් මොළ නෙමෙයි මොළ ගෙනාපු නැව්,negative,negative,1,feedback
+5303,39,පව් බං අපි. තව අවුරුදු 50 ක් ගියත් තමයි,negative,negative,1,complaint
+5337,10,හෙනම ගහපිය,negative,negative,1,complaint
+5340,15,රට නියමෙට පෙරට.,positive,positive,1,feedback
+5349,23,ඇයි ඒ දරුව ව හොරකම් කලේ,negative,negative,1,complaint
+5358,30,මගේ පුතා කවුරුන් හෝ අරන් ගොස්.,negative,negative,1,feedback
+5368,40,පවු බන්.අන්න ඇත්ත අම්ම පොලිසියට කියල 16.,negative,negative,1,feedback
+5374,41,මේ කතාව අසම්පූර්ණයි වගේ. මට නම් මේක අවුල්,negative,negative,1,complaint
+5390,30,කර්මය කොහෙ ගියත් පටිසන් දෙනවා.,negative,conflict,0,feedback
+5397,25,ඔව් උන් ඇත්ත කියලා නෑ නේ.,negative,negative,1,complaint
+5410,42,සිංහල අම්මා කෙනෙක් ඇයි ඒ දරුව ව හොරකම් කලේ,negative,negative,1,complaint
+5428,9,බාරදෙන්න.,neutral,neutral,1,other
+5429,36,ෂූම් කරල බලපු උන් අත උස්සපියව් බලන්න,negative,neutral,0,feedback
+5435,15,ඕවට තමා කියන්නේ,neutral,neutral,1,feedback
+5440,30,ගොන්නු හින්ද දක්කන්න ලේසියි.ජහ,negative,conflict,0,complaint
+5450,39,ඒකත් බාල ප්ලාස්ටික් වගේ මටනම් පෙනෙන්නේ.,negative,negative,1,complaint
+5463,30,ඒවායින් තමා ඒ අය ජීවත් වෙන්නෙ.,neutral,neutral,1,feedback
+5466,19,මානසික ලෙඩ්ඩු. පව්.,negative,negative,1,complaint
+5470,29,කෙහෙද දැන් ඔය කියන අර හැඩ වැඩ,neutral,neutral,1,feedback
+5472,33,අය්යෝ හරේන්ද්ර ඔයා මේ බඩු ගොඩේ ද.,negative,negative,1,feedback
+5474,39,එළදෙන්නු කොහොම හිටියත් බුරුල්ල එලි යෙනේ,negative,negative,1,inquiry
+5488,29,මේ යකා මොනවහරි සැර දෙයක් බීලද,negative,negative,1,feedback
+5489,30,වොලිබෝල් නම් ඉතින් ගම්පහ තමයි.,positive,positive,1,feedback
+5490,29,මාදම්පේ නාත්තන්ඩිය අහලා නැද්ද,neutral,neutral,1,inquiry
+5491,16,කාලික වසන්තප්රිය,neutral,neutral,1,feedback
+5492,30,ඇයි වාද්දුව පොතුපිටිය උඩින් ම.,neutral,neutral,1,inquiry
+5497,42,මොනවා කරත් මුගෙ මොන්ගල් ඩැල් එක මකන්න බැහැ,negative,negative,1,feedback
+5498,38,ක්රීඩාවට අරන් වලපල්ලට යවන්න වෙන්න ඇති.,negative,negative,1,feedback
+5500,19,ජනාධිපති රන් කුසලාන,neutral,neutral,1,feedback
+5505,24,රඟපාලා මාකටින් කරනවා වගේ,neutral,negative,0,feedback
+5511,37,කියන එක දන්නේ නැති එකා මේක තේරුම් ගනී,positive,conflict,0,feedback
+5517,39,ම්ේ වගේ උන්ට මොනම රජයක්වත් හරියන්නෙ නෑ.,negative,negative,1,complaint
+5538,23,නිර්මාණ දායකත්වය. චීචි.,neutral,positive,0,feedback
+5545,9,මට කියන්න,neutral,neutral,1,other
+5582,39,දිල්ලියේ සමස්ත ලංකා වෛද්ය විද්යා ආයතනයේ,neutral,neutral,1,feedback
+5603,21,නම් රජපක්ශ රජපක්ශ නම්,neutral,neutral,1,feedback
+5610,42,මහා බැංකුව කැඩුවේ කවුද. ලංකාවේ අපේ ලංකාවේ.,negative,negative,1,inquiry
+5618,20,ලොක්කගේ ගම නොවන නිසා,neutral,neutral,1,feedback
+5620,16,මහේලත් අනේ මන්දා,negative,negative,1,feedback
+5625,6,ඒ කවුද,neutral,neutral,1,other
+5642,42,ඉතින් මොකෝ ඒ ගෑනි ඒ ගෑනිගේ ආගම ඇදහුවාම උඹට,negative,neutral,0,complaint
+5650,25,දැන් ඉතිං ඇර සොයිසා තමයි.,negative,neutral,0,feedback
+5655,28,රතන හාමුදුරුවන්ගෙ නෑ කෙනෙක්ද,neutral,neutral,1,feedback
+5656,40,වපුරණ දෙයට අනුව පලදාව ලැබී ඇත. ලැබෙනු ඇත,neutral,neutral,1,feedback
+5662,26,ගරු විජිත් විජයමුණි සොයිසා,neutral,neutral,1,feedback
+5670,14,නියම සිංහලයෙක්,positive,positive,1,feedback
+5676,14,කහ ආනයනය තහනම්,neutral,negative,0,other
+5688,10,කහගත්තහැකි,neutral,neutral,1,other
+5691,6,කරගන්න,neutral,neutral,1,other
+5698,26,විදේශ කුමන්ත්රනයක් විය හැක,negative,negative,1,feedback
+5707,42,උම්බේ කොමෙන්ට් එකත් සුජියගෙ පොත වගේ නිකන්.,negative,positive,0,feedback
+5708,26,ඉතින් ආයුබෝවන් බනානා හොරු.,conflict,negative,0,greeting
+5714,39,ඉන්න සුදුසු නැති අය අයින් වෙන එක හොඳයි.,positive,negative,0,feedback
+5716,8,අනේ මෙයා,neutral,neutral,1,other
+5718,41,ප්රීති. ප්රීතී. උදේ පාන්දරම සුභ ආරංචියක්.,positive,positive,1,feedback
+5722,26,රසත් නැති ගුනත් නැති පතෝල.,negative,negative,1,feedback
+5730,31,රාජපක්ෂල ගැන ගහපු බේගල් පාපෙන්.,negative,negative,1,feedback
+5732,10,ලොකු දෙයක්,positive,positive,1,feedback
+5734,19,සුහද කොකා මතක් උනා.,neutral,neutral,1,feedback
+5735,30,69 ලක්ෂයක් පුදුම වෙන්නයි යන්නේ,neutral,neutral,1,feedback
+5736,19,දෙවියන්ගෙම පිහිටයි.,positive,positive,1,greeting
+5750,6,මැරුණෙ,negative,negative,1,feedback
+5767,35,මුද්දර මත්ද්රව්ය කියන්නෙ මොනවාද අනේ,negative,neutral,0,inquiry
+5772,35,ඔය එක දේශපාලකයින් ට දැම්මනම් හොඳයි.,positive,positive,1,feedback
+5777,41,තොට ලයිසන් එකක් නැති නිසා කොහොම දැනගන්නද.,negative,negative,1,complaint
+5800,10,නියම කතාව.,positive,positive,1,feedback
+5812,16,ඉදකින් කූතාඩියා.,negative,negative,1,feedback
+5814,10,හරියටම හරි,positive,positive,1,feedback
+5839,41,වාහන ආනයනය කරන කාලෙ අඩුවට දුන්න වගේ කතාව.,negative,negative,1,feedback
+5869,10,මැරිලා නෑ.,positive,positive,1,feedback
+5873,42,ඔය ලිවින් ටුගෙදර්ජරාවට නම් යන්න එපා ළමයිනේ,negative,negative,1,complaint
+5875,13,අංගොඩයා කාරයා,negative,negative,1,feedback
+5893,4,ටෙනී,neutral,neutral,1,other
+5912,39,සිවුර නැත්නම් අද නොම්මර එකේ කවට නළුවෙක්,negative,negative,1,feedback
+5918,39,ටෙනිසන් කුරේගෙ නම් නම ඇහුණත් හිනා යනවා.,positive,positive,1,feedback
+5927,36,මොන කරුම අවුරුද්දක්ද බං මේ 2020 ශික්,negative,negative,1,complaint
+5929,13,ඔබට නිවන් සුව,positive,positive,1,other
+5942,34,එහෙනම් කුරේලගේ වැඩත් අදින් ඉවර යි.,negative,neutral,0,feedback
+5949,15,ගංජා ගහලද ඉන්නෙ,negative,negative,1,feedback
+5953,36,මුගේ නමින්ම තේරෙනවා මූ අවජාතකයෙක් බව,negative,negative,1,complaint
+5966,6,දෙකකට.,neutral,neutral,1,other
+5977,30,සිංහල ලේ කකියන උන් දැන් මැරිලද,negative,negative,1,feedback
+5980,33,බොම්බ ගහන්න විතරයි දන්නේ කාලකන්නි,negative,negative,1,complaint
+6008,32,මෙහෙ තමා අපාය. වෙනත් අපාය ක් නෑ.,negative,negative,1,complaint
+6020,42,දැන් එතකොට ළමයට මුකුත් හානියක් වෙලාද මෙතන,negative,negative,1,feedback
+6022,37,ඇයි නැත්තේ මේ හැමදේම හරි විදියට වෙලා.,positive,positive,1,feedback
+6029,31,අබරං අතේ උඹත් දොස්තර කෙනෙක් නේද,negative,neutral,0,inquiry
+6049,22,ඕගොල්ලෝ පාස්නේ. ඕනේ ණෑ,conflict,conflict,1,feedback
+6054,25,හොඳටම දිරල තිබිල තියෙන්නෙ,negative,negative,1,feedback
+6069,36,මෙයා තමයි රාජපක්ෂ පවුල කරලියට ගෙනාවෙ,neutral,neutral,1,feedback
+6086,36,පිස්සුද යකෝ මේ මැරිලා ඉන්නේ ගෑනියෙක්,negative,negative,1,complaint
+6088,19,අනියම් මිනීමැරුමක්.,negative,negative,1,feedback
+6090,35,පොටෝ එකේ ඉන්න කෑල්ලද ඒකනම් බඩුම තමා,negative,negative,1,feedback
+6092,36,හොර වැඩ කරනවාට හොද පාඩම් නාකි විසේට.,negative,negative,1,complaint
+6096,25,අලුත්ම එක.පොල් මනින බයියෝ,negative,neutral,0,feedback
+6097,42,අවන්ත බලාගෙන වයිට් වෑන්ස් එකක යන්න ආසයි ද.,neutral,neutral,1,feedback
+6100,10,සහතික ඇත්ත,positive,positive,1,feedback
+6109,19,යකෝ ඇමරිකාවේ කොරෝනා,negative,negative,1,feedback
+6118,18,තණමල්විල මල් වවමුද,neutral,neutral,1,feedback
+6120,14,නම වෙනස් කරන්න,neutral,neutral,1,suggestion
+6124,20,3 ජෙප්පෙක් කතා කරයි.,negative,neutral,0,feedback
+6131,10,අදාළ දේවල්,neutral,neutral,1,other
+6138,21,අයියෝ යකෝ මුන් චන්ඩිද,negative,negative,1,complaint
+6139,32,මැරයෙක් හොයා ගන්න නැද්ද මේ බේතකට,negative,negative,1,inquiry
+6148,22,වීරයා හැන්ගිලා අනේ පවු,negative,negative,1,feedback
+6149,27,අහ් අහ් අහ් අහ්. බොරු චන්ඩි,negative,negative,1,complaint
+6189,38,ඒක පිහිටුවන්නේ අර ක්ලවුඩ් එකේ වෙන්න ඕන,neutral,neutral,1,feedback
+6190,30,මොන ඇමතිගෙ මල්ලිට ද දාල දෙන්නෙ,neutral,neutral,1,suggestion
+6192,28,ආපහු එකකට වැඩක් දෙන්න වගෙයි.,negative,neutral,0,suggestion
+6193,31,අපිට විශාල ගෑස් නිධියක් තියෙනවා,neutral,neutral,1,feedback
+6194,31,දෙසීයා මේකෙන්ම ගොඩ යයිද දන්නෙනෑ,positive,neutral,0,feedback
+6196,4,කීයද,neutral,neutral,1,other
+6202,42,මූ ඒකෙනුත් ගසාකන්න ක්රමයක් හොයාගන්න යන්නෙ.,negative,negative,1,complaint
+6210,37,මු මෙ දෙන්න හදන්නේ ඔසී ගෙම් දෙකද තුනද,negative,negative,1,feedback
+6214,8,චී චී චී,negative,negative,1,feedback
+6216,42,අනු සහ. බාලාජි මොනවා කරනවා ඇත්ද දැන් අප්පා,negative,neutral,0,complaint
+6219,27,ප්රවීණා නෙවෙයි නම ප්රිර්ණා.,neutral,neutral,1,feedback
+6220,23,මහාරාජා බෝධි පුජා තියයි,positive,positive,1,feedback
+6221,37,අපිට කරන දේවල් වලට රිටන් එක වෙන්ඩ ඇති,neutral,negative,0,feedback
+6251,39,නඩුත් හාමුදුරුවන්ගෙ බඩුත් හාමුදුරුවන්ගෙ,negative,negative,1,feedback
+6255,39,රජයේ බෙහෙත් දෙන්නෙ නිකම්ම කවරෙකට දාලා.,neutral,neutral,1,suggestion
+6256,29,අබරං ආතෙ උඹ දොස්තර කෙනෙක් නේද,neutral,neutral,1,inquiry
+6261,11,මදැයි කොළා.,negative,negative,1,feedback
+6265,9,ලෙවකෑ නේ.,neutral,neutral,1,other
+6289,17,හචිකෝව මතක් වුණා.,neutral,neutral,1,feedback
+6319,28,ලංකාවේ පොලිසිය නම් එහෙම තමයි,neutral,neutral,1,feedback
+6324,19,බිරිඳ හෙලුවෙන් ඉඳලද,neutral,neutral,1,feedback
+6326,14,මොකද ඉතින් උනේ,neutral,neutral,1,feedback
+6331,20,එතකොට ඕක බාර ඇමතියා.,neutral,neutral,1,feedback
+6341,3,නම්,neutral,neutral,1,other
+6345,35,කුලියාපිටියෙ සෙන්ට්රල් එකටත් එන්නකෝ,neutral,neutral,1,feedback
+6350,19,ළමඊ වැලලෙන්න ගනියව්,negative,neutral,0,feedback
+6352,19,දන්න සිංහලෙන් කොටපං,conflict,neutral,0,feedback
+6362,25,උදානිව දාලා උදානිට දානවා.,neutral,neutral,1,feedback
+6368,12,රෙස්පෙක්ට් ස,positive,positive,1,feedback
+6371,27,ශ්රී ලංකා ලංකා පවුල් පාලනය.,neutral,negative,0,complaint
+6381,40,අනේද කියන්නෙ. වැටත් නියරත් ගොයම් කා නම්.,negative,negative,1,inquiry
+6384,16,ඒකත් තක දොං තෙයි,neutral,neutral,1,feedback
+6393,17,විහිළු පටන් අරගෙන,negative,negative,1,feedback
+6395,23,ආයෙත් විහිළු පටන් අරගෙන,negative,neutral,0,feedback
+6407,17,මොනා උනත් දක්ශයි.,positive,positive,1,feedback
+6409,28,පැවිදි වෙලත් මිනිස්සු රවටනවා,negative,negative,1,complaint
+6428,21,මේ ගොල්ල මොකද කරන්නේ.,neutral,neutral,1,suggestion
+6448,42,ආ හරි ඉස්කෝල තියෙන්නෙ ෆ්රීශූට් කරන්න තමයි.,neutral,neutral,1,suggestion
+6453,23,මුන් තාම ඉන්නේ ගල් යුගේ,negative,negative,1,feedback
+6454,37,ඕකට කියන්න ඉරිසියාව බලන් ඉන්න බැරි කම,negative,negative,1,feedback
+6455,33,මේ දෙන්න කරපු වැඩේ වැරද්ද මොකක් ද,negative,neutral,0,suggestion
+6474,14,ක්රිෂාන් ජීවක.,neutral,neutral,1,feedback
+6491,14,පාසල පූජනීයයි.,positive,positive,1,feedback
+6504,30,තවත් පහන් කන්දක් නිවීගිය වගයි.,negative,negative,1,feedback
+6524,12,සේව් ද පර්ල්,positive,positive,1,feedback
+6530,40,මෙයා දේශප්රේමීද රජපක්ෂ කඳවුරද දේශද්රෝහීද,conflict,conflict,1,feedback
+6532,42,හරීන්ගේ තාත්තත් කිව්වා ඌට ජල භීතිකාව කියලා,negative,negative,1,feedback
+6535,11,නරි භීතිකාව,negative,negative,1,feedback
+6549,9,වැඩිහිටි.,neutral,neutral,1,other
+6558,17,මෙව්වනේ යකූ ජොබ්.,positive,positive,1,feedback
+6561,29,ඇයි මචං එන්නත එච්චරටම ශුවර් ද,positive,positive,1,feedback
+6576,14,කැතකොට පොලීසිය,negative,negative,1,complaint
+6577,17,නෑ කනකොකා පොලීසිය,positive,negative,0,feedback
+6598,32,ඩොලර් එක නහුතෙට නගී හාන්දුරුවනේ.,negative,negative,1,feedback
+6604,40,අපිටත් අලුත් නෝට්ටු කීපයක් පිලිගන්නන්නකෝ,positive,positive,1,feedback
+6612,33,හරි එක ඔබන්න නොදන්න උන් වෙන්න ඇති,negative,negative,1,feedback
+6625,11,බෲනෝ බේරුණා,neutral,positive,0,other
+6626,8,ස්තුතියි,positive,positive,1,feedback
+6642,12,තු.හ් නෙදකිං,negative,negative,1,inquiry
+6644,15,මරු කියෝනවා වගේ,negative,negative,1,feedback
+6656,40,මේවා කරන්නේ ඉන්ජිනේරුවොම තමයි කරන්න ඕනා.,neutral,neutral,1,suggestion
+6665,18,එක රටක් නීති දෙකක්,neutral,negative,0,feedback
+6679,39,මෙම විදේශිකයින් සත්ය කරුණු සැඟවීම නිසා.,negative,negative,1,feedback
+6685,39,එතකොට මාසෙකට වැඩිපුර. කට්ටියට පහළ වෙයිද,neutral,neutral,1,inquiry
+6690,20,සුපිරි වෙළද සංකීර්ණ.,positive,neutral,0,feedback
+6691,35,බොරු තමා ඒක නම්. බූරුවො ඉන්නව මාතර.,negative,negative,1,complaint
+6692,40,පුත්තලම මාතර දිස්තික්කයට අයත් වෙන්නෙ නැ.,neutral,neutral,1,feedback
+6696,33,මුරුක්කන් කියන්නේ බයිට් එකක් නේද.,neutral,neutral,1,inquiry
+6700,36,ඔව් ඔව් කාසි වල රාජ යෝග එහෙම තියෙනවා,positive,positive,1,feedback
+6704,35,ජවිපාවන්ට බනින්න එපා හොඳේ. තරහ යනව.,negative,negative,1,complaint
+6714,37,අපෙන් කොප්පේ ගහනවා නේ එංගලන්තේ සර්ලා.,negative,negative,1,feedback
+6721,26,ඔබට නිවන් සුව ලැබේවා අම්මේ,positive,positive,1,other
+6733,39,හිස ගෙනියන්න තමයි අනේ මෙයා කපල තියෙන්න.,negative,negative,1,feedback
+6744,9,සත්තු.නේ.,neutral,neutral,1,other
+6764,12,කවුද හිටම ද.,neutral,neutral,1,inquiry
+6766,20,පාර්ලිමේන්තු පරිමාණ.,neutral,neutral,1,feedback
+6771,16,කොරයි මේන් කියල.,negative,negative,1,feedback
+6777,27,ඇයි දැන් 10ට නිදාගන්න බැරිද,neutral,neutral,1,inquiry
+6789,27,මාත් කැමති නෑ ඔයා කලවැද්දාට,negative,negative,1,complaint
+6793,14,දවසේ කොමෙන්ටුව,positive,positive,1,feedback
+6796,33,හොද වැඩේ. වඩේ කාරයා චාමරයගෙ අම්මා,negative,positive,0,feedback
+6797,17,ෆොන්සේකා ෆොන්සේකා,neutral,neutral,1,feedback
+6811,38,වඩේකාරයට ඒක නොකියා වෙන මොනා කියන්නද බං,negative,neutral,0,feedback
+6813,30,ෆොන්සේකා එකට සුදුසු එකෙක් නෙමේ,negative,negative,1,feedback
+6814,38,උබලගෙ ගෙදරට තමයි සුදුසු අප්පට වයස නිසා,positive,positive,1,feedback
+6821,30,එංගලන්තෙ බඩු හිඟද බං මේ දවස්වල,negative,negative,1,feedback
+6825,42,දෙක පාස් නැති බඩ තඩි වඩේකාරයාට නියම සබ්බුව,negative,negative,1,feedback
+6826,12,කඩල කඩල කඩල.,neutral,neutral,1,other
+6828,16,මුන් දෙන්නම එකයි,neutral,neutral,1,feedback
+6839,35,ගොන්සේකා තමන්ගෙ තරම හැමදාම පෙන්වනවා,negative,neutral,0,complaint
+6845,38,මුන් හිතන් ඉන්නෙ මේක කොළොම්බියාව කියලද,negative,neutral,0,feedback
+6846,20,කොලොම්බියාව වගේ තමයි,neutral,neutral,1,feedback
+6848,21,කෝටි 3 පොලිසියට දීපන්,neutral,neutral,1,feedback
+6854,39,දැන් එතකොට කෝටි 3 පොලිසියටද හම්බ වෙන්නෙ,neutral,neutral,1,feedback
+6857,35,මරන්නේ එකෙක් ටෝක්ස් දෙන්නෙ තව එකෙක්,negative,negative,1,suggestion
+6858,13,සිඟිති පාතාලේ,negative,negative,1,feedback
+6860,5,ලගදීම,neutral,neutral,1,other
+6867,6,සිංහාර,neutral,neutral,1,other
+6878,11,පිස්ශු. නේ.,negative,negative,1,feedback
+6883,18,වන් බයි වන් ඩව්න්.,negative,neutral,0,feedback
+6884,36,අනේ මේ අපේ රෝහන අයියා නිවන් සුව පතමි,conflict,conflict,1,greeting
+6890,31,උඹ දන්න එකම වැඩේ ලියල තියෙන්නෙ.,neutral,positive,0,feedback
+6892,40,චන්දෙ දීල රැවටුනු මිනිසුන් ගෙන් බේරෙන්න.,negative,negative,1,feedback
+6898,39,බැග් නෙමේ කුස්සියේත් වැඩ කලේ කාගේ කාලේද,neutral,neutral,1,feedback
+6900,35,ආව මුන අපේ පවුලෙ වරප්රසාද ඉල්ල ගෙන.,neutral,neutral,1,feedback
+6906,37,ඔයත් මම වගේ වැල පත්තර බලපු කෙනෙක් වගෙ,negative,negative,1,feedback
+6911,34,කන්ඩෝනි බොන්ඩෝනි බෝලේ වගේ ඉන්ඩෝනි.,neutral,positive,0,feedback
+6933,32,පොදු දේපළ පනත අවභාවිත පොදු දේපළ.,negative,negative,1,feedback
+6939,19,ගොන් කතා කියන්න එපා,negative,negative,1,complaint
+6947,25,තවම මේ ආච්චි මැරුනෙ නැද්ද,negative,negative,1,inquiry
+6955,30,හොඳ වැඩක් කරාම හොඳයි කියපං යකෝ,negative,negative,1,feedback
+6959,30,ගොං බයියො චුන් කරන්න දෙන ආතල්.,negative,negative,1,complaint
+6975,40,සමහරු නවල්ස් කියවන්නෙ ටෙලි බලන්නෙ ඇවිත්.,neutral,neutral,1,suggestion
+6990,28,භූවිද්යා එකටත් ආවනම් තමා හොඳ,positive,positive,1,feedback
+6998,18,කරන එක 20 එහෙම නේ.,neutral,neutral,1,feedback
+7032,35,දාල තියෙන එවූන් 10 දෙනා අමනූස්සයොද.,negative,negative,1,complaint
+7040,28,මේක දැකල දවසම පිස්සු වගේ බන්,negative,negative,1,complaint
+7043,42,බස්නායක නිලමෙ වගේ උන් වෙඩි තියලා මරන්න ඕනි,negative,negative,1,complaint
+7046,34,මේ සසර හරිම බියකරුයි මගේ අප්පච්චී.,negative,negative,1,feedback
+7047,17,අනේ දෙවියනේ දුකයි,negative,negative,1,complaint
+7052,20,ඇත්තටම හරිම කනගාටුයි,negative,negative,1,complaint
+7054,8,හරිම පව්,negative,negative,1,complaint
+7100,24,ඒ ටික විකුණා ගත්තනම් ගොඩ,positive,neutral,0,feedback
+7102,24,පයාගල කුඩු රොහිත ඉන්නකොට,negative,negative,1,feedback
+7103,7,අමල් උඹ,neutral,neutral,1,other
+7104,25,මාල හොරා රත්තර0ත් පයාගලලු,negative,negative,1,complaint
+7114,12,කොහේ කොන්ඩේද,neutral,neutral,1,other
+7115,11,ප්රභූවරයකු.,neutral,neutral,1,other
+7118,35,කතානායකය ආපු ගමන්ම කඩේ යන්න ගත්තනෙ.,negative,negative,1,feedback
+7121,11,කිව්වත් වගේ,neutral,neutral,1,other
+7141,18,ඔන්න ඔන්න.වැට වැට.,neutral,neutral,1,feedback
+7142,7,බයියනේ.,negative,negative,1,feedback
+7150,35,ඒකට තමයි කියන්නෙ රජයේ සේවය කියන්නෙ.,neutral,neutral,1,feedback
+7151,23,පාස්කු ප්රහාරයක් උනේ නෑ,positive,positive,1,feedback
+7195,22,ඒකාත් පාර්ලිමේන්තු වේද,neutral,neutral,1,feedback
+7202,21,අතාඋල්ලා ගිහින් නැද්ද,neutral,neutral,1,inquiry
+7208,21,කැලේ කැප පාරවල් හදමු.,negative,negative,1,feedback
+7218,32,කතාව නාම් නියම වට්ටි අම්මා.අයියෝ,negative,negative,1,feedback
+7221,5,වහලා.,negative,negative,1,feedback
+7228,20,ශා.මෙයා නම් හොදා වගෙ,positive,positive,1,feedback
+7229,5,මොකටද,neutral,neutral,1,other
+7232,32,9 මුස්ලිම් 12ක් බලාපොරොත්තු වන්න,neutral,neutral,1,feedback
+7249,26,ලංකාවේ මිනිස්සුන්ගේ කුහකකම,negative,negative,1,feedback
+7271,16,ඉස්පිරිතාලෙ බෑනේ,neutral,neutral,1,feedback
+7276,30,මේ බින් ලාඩන් ස්ටයිල්ස් එකක්නේ,neutral,neutral,1,feedback
+7279,23,කොහෙද බම් මේකේ අමුත්තක්,neutral,neutral,1,inquiry
+7281,38,උන් පත්තු වෙන්නේ විල්පත්තු වලට විතරයි.,negative,negative,1,feedback
+7284,29,මේ මෝඩිද නැත්තං ඉම්රාන් කාන්ද,neutral,neutral,1,complaint
+7285,41,කටපියාගෙන හිටු බහුතරේ සහ පාලකයාගේ කැමැත්ත,negative,negative,1,feedback
+7286,13,පිස්සන් කොටුව,negative,negative,1,feedback
+7297,9,හරියට හරි,positive,positive,1,feedback
+7306,37,ඌට මයික් එක ලෑටපිලා උබලා මරු කියවනවා.,negative,negative,1,feedback
+7309,22,මොකද්ද බං චැනල් එක මේ.,neutral,neutral,1,inquiry
+7311,18,ඔන්න මම නම් නෙමෙයි,neutral,negative,0,feedback
+7314,20,බහුතරේ කැමැත්තක් වගේ,positive,positive,1,feedback
+7316,20,මල්ලි ඇත්තටම උ ද පොර,conflict,neutral,0,feedback
+7339,14,ඔබට දීර්ඝායුෂ.,positive,positive,1,greeting
+7340,41,ආරියසිංහ මහතාට නිදුක් නිරෝගී සුවය ලැබේවා.,positive,positive,1,greeting
+7349,5,මෙහාට,neutral,neutral,1,other
+7353,14,පල නාකියා යන්න,negative,negative,1,feedback
+7356,36,ඕකට කියන්නේ දිට්ඨදම්ම වේදනීය කර්මයයි,negative,negative,1,feedback
+7363,28,එරාවුර් ප්රදේශයේ පුද්ගලයෙක්.,neutral,neutral,1,feedback
+7368,20,කැකිරි හේනේ බඩු ලාල්,negative,neutral,0,feedback
+7369,42,බඩු ලාලාව එලවාගෙන ගිය සිකූටියා ලන්සි පෝලාද,negative,negative,1,feedback
+7383,37,උබලා ඉතිං අදහන්නෙම බාල අපරාධකාරයෙක්නේ,negative,negative,1,complaint
+7387,25,මවු ගුණ තමා කියන්න වෙන්නේ,positive,positive,1,feedback
+7388,22,මරන්න ඕනා කාලකන්නි ටික,negative,negative,1,complaint
+7392,30,මාත් එක්ක සෙල්ලම් බෑ.හ්ම් හ්ම්,negative,negative,1,feedback
+7397,8,කාලකන්ණි,negative,negative,1,complaint
+7399,17,වික්කනම් කල්ල මරේ,negative,neutral,0,feedback
+7403,42,කේන්දරේ නෙමේ තමන් ගැන විශ්වාසය තියාගනිල්ලා,neutral,neutral,1,suggestion
+7415,26,සෝඩා බොතලේ මූඩිය ගලවන ගමන්,neutral,neutral,1,feedback
+7418,39,අපටත් නිසි පරිදි පැමිණිලි ලැබිය යුතුයි.,neutral,neutral,1,suggestion
+7420,32,අස්වයා පැන ගිය පසු ඉස්තාලය වැසීම,negative,neutral,0,feedback
+7423,24,හරියට කොටහල්ලා කරන දෙයක්,neutral,neutral,1,feedback
+7434,37,අධිෂ්ඨානශීලී බව සහ කැපවීම ජයග්රහණයයි.,positive,positive,1,feedback
+7445,22,ලාලෝ.කොහොමද කැකිරි මිළ,neutral,neutral,1,inquiry
+7451,38,නාරාහේන්පිට අභයාරාමයේදී පැවැත්වෙන අතර.,neutral,neutral,1,feedback
+7452,9,අනේ හොඳයි,positive,positive,1,feedback
+7473,18,හෙලිකොප්ටරුත් දාමු,neutral,neutral,1,feedback
+7480,15,ඔව් ඒක නම් ඇත්ත,positive,positive,1,other
+7486,18,ඒටු ඉසෙඩ් ඇප්රූවල්,positive,positive,1,feedback
+7492,35,වාර්ෂික වියදම රුපියල් බිලියන තුනක්.,neutral,neutral,1,feedback
+7494,21,ඕක නම් වහන එකමයි හොද.,conflict,positive,0,feedback
+7508,6,පිස්සු,negative,negative,1,complaint
+7561,30,අර ලෙව්කේ ව කරන්නෙ නැද්ද මුන්.,neutral,neutral,1,suggestion
+7562,28,දෙයක් වෙන්නම ඕනෙ පතතු වෙන්න.,negative,negative,1,feedback
+7570,24,එකෙන් සල්ලි ගන්නත් කරනවා,neutral,neutral,1,feedback
+7577,39,මාත් කැමතියි නගර සභාවේ මුරකරුවෙක් වෙන්න,neutral,neutral,1,feedback
+7578,26,අපේ අයට හැමදේම මතක සතියයි.,neutral,neutral,1,feedback
+7586,29,ඇයි කොණ්ඩමන්ගෙ අවමගුල් උත්සවේ,neutral,negative,0,inquiry
+7597,18,නිවන් සුව අත්වේවා.,positive,positive,1,other
+7598,39,ඔය වයසෙ එවුන්වත් ජීවිතය අවබෝධ කරගනින්ලා,positive,neutral,0,feedback
+7602,28,වයසට පුලුවන් වැඩ කරන්න එපැයි,negative,negative,1,suggestion
+7610,11,නෑ නෑ කරුමය,negative,negative,1,complaint
+7611,5,රෙද්ද,negative,neutral,0,other
+7631,30,අල්ලපු ගෙදර එකාට තිබුන කෑගහන්න,negative,neutral,0,feedback
+7637,36,ලෙව්කේ මැතිදු අද හෙලුවෙන් වෙල මැද්දේ,negative,negative,1,feedback
+7690,24,මොන බොරුද. අපි බයියෝ නේ.,negative,negative,1,inquiry
+7694,25,ඩිලාට ජංගියේ රීලා ඇමතිකම.,negative,negative,1,feedback
+7695,37,හොදයි. කිසිම වැඩක් කරන්නේ නැති උන්නේ.,conflict,conflict,1,suggestion
+7720,25,අශ්ව ගාල එන්ගලන්තෙද මෝඩයෝ,negative,negative,1,complaint
+7722,36,ඉරිසියාව රුසියාවට වඩා ලොකුයි කිව්වලු,negative,negative,1,feedback
+7726,33,ජීවිතය දුකකි.මීට ජයරත්න මල් ශාලාව,negative,negative,1,feedback
+7728,34,වාසනාවන්ත අම්ම කෙනෙක්. ඔබට ජය දුවේ,positive,positive,1,greeting
+7734,37,ජයරත්න නම් මල් කවුද බං එහෙම කියන එකා.,neutral,neutral,1,inquiry
+7737,34,දප්පු ඇයි මෙයාට තනතුරක් හදලා ගත්තේ,neutral,neutral,1,inquiry
+7738,40,රතු පාට මල් මට තාම මතකයි ගුරු පාර සරසන්න,neutral,neutral,1,feedback
+7741,8,පව් ඔයා.,negative,negative,1,complaint
+7768,7,පට්ට කද,positive,positive,1,feedback
+7769,22,තෝ බයඊ නේද හොල්මන් වලට,negative,negative,1,inquiry
+7774,9,තොටත් තමා,negative,neutral,0,feedback
+7777,32,හිටං පව් බන්.ගැරඩි මරලා වැඩක් නෑ,negative,negative,1,complaint
+7796,25,ඔන්න නුවර මැනිකලාගෙ තත්වෙ,neutral,neutral,1,feedback
+7802,35,මේ වෙලා තියන වින්නෑහිය මොකක්ද අප්පා,negative,negative,1,inquiry
+7806,20,සිරි ලංකාවට අබ සරනයි,negative,negative,1,feedback
+7822,28,බලපන් පියුමි හන්සමාලි ද කියල,neutral,neutral,1,feedback
+7827,14,අරඹෙපොළ කෙනෙක්,neutral,neutral,1,feedback
+7837,6,මං වගේ,neutral,neutral,1,other
+7840,35,ස මෙන්නෝ රණවිරුවන්ට මුන් කරදර කරනවෝ,negative,negative,1,feedback
+7844,34,ගෑනුයි ලමයි ටිකත් රටත් එක්කම දෙමු.,negative,neutral,0,feedback
+7847,11,රණවිරු දඩයම,negative,negative,1,feedback
+7851,32,හරි හරි ලොකු සීන් එකක් වෙලා නැනේ,positive,positive,1,feedback
+7858,33,ලෝකෙටම ලෙඩ බෝ කරන මහ කරුම රටක්නේ.,negative,negative,1,feedback
+7859,28,චීනය කියන්නෙම ලෝකෙට වසංගතයක්,negative,negative,1,feedback
+7861,26,සිරුරේ බර අඩුවීම.3.ඒක පට්ට,conflict,conflict,1,feedback
+7869,34,කොමිසම් කන්ඩද කියන එකා ඇත්තම කියයි,negative,conflict,0,feedback
+7870,21,කෝටි කීයක් දෙන්න ඇද්ද,neutral,neutral,1,suggestion
+7871,15,කෝ කෝ මේ මැදගොඩ,neutral,neutral,1,feedback
+7891,36,මැරුන අයට නම් නීතිය ක්රියාත්මක වෙයි.,negative,negative,1,feedback
+7904,39,පපඩමක් වගේ ගෙවල් හදන්න අවසර දුන්නේ කවුද,negative,negative,1,suggestion
+7932,18,පාස්කු ප්රහාරයේ එක,negative,negative,1,feedback
+7943,33,ලෙව්කේ මැතිදු අද තනියම වෙල මැද්දේ,negative,neutral,0,feedback
+7951,30,මුගේ නමත් මහ කඩප්පුලි එකක් නේද,negative,negative,1,complaint
+7960,25,ඔයා ඇස් ඉදිරිපිට විදියයි.,neutral,neutral,1,feedback
+7974,32,මැරෙන්න තියෙනවනම් මැරෙනවා අප්පාා,negative,negative,1,feedback
+7982,23,පූට්ං ඉනට අත්දෙක ගහගෙන.,neutral,neutral,1,feedback
+7984,31,තව ටික කාලයකින් මෙහෙත් ඔහොම තමා,neutral,neutral,1,feedback
+7994,34,ඒත් උන්ගෙ ගෝත්රික ගති ගිහින් නැහැ.,negative,negative,1,complaint
+7995,42,ගෑනි මෙහෙ හිටියනම් ණය ටික ගෙවාගන්න තිබ්බා.,neutral,negative,0,feedback
+7998,32,ඔලුව කැරකිල්ල හැදුනා යකෝ ඒක අහලා,negative,negative,1,feedback
+7999,30,ශේක් මොහමඩ්ට මේවා සිල්ලර කාසි.,neutral,neutral,1,feedback
+8005,5,ගොබ්බ,negative,negative,1,feedback
+8009,18,මිනිස්කම නැති රටක්,negative,negative,1,feedback
+8013,3,නාථ,neutral,neutral,1,other
+8014,23,මහාචාර්ය චන්නගෙන් අහන්න,neutral,neutral,1,feedback
+8031,20,කව්ද බං නාලක කියන්නේ,neutral,neutral,1,inquiry
+8054,17,කෝ අනේ උමාලි හිටං,neutral,neutral,1,feedback
+8065,9,මාළිගාවක්,neutral,neutral,1,other
+8074,40,වචන 1000ක තෙරුම තියෙන කෙටි වාක්යක්. නියම,positive,positive,1,feedback
+8076,24,තනි බැවුමක්.අනේ මන්ද පව්,negative,negative,1,complaint
+8104,42,ඉස්සරවෙලා මංතීරු තුනේ පාරවල් හදපල්ලා රෙද්ද,negative,negative,1,feedback
+8118,9,මේ මොකක්ද,neutral,neutral,1,other
+8139,18,3 වීරයා ගෙදර ඇවිත්,neutral,positive,0,feedback
+8142,34,රවීන් තමයි දැනට ඉන්න දක්ෂතම නලුවා.,positive,positive,1,feedback
+8149,42,මේ යන්නෙ මිනිස්කම නැති මුදල්ම හොයන සමාජයකට,negative,negative,1,feedback
+8167,36,සසරෙන් එතෙර වෙන්න. සසරෙන් එතෙර වෙන්න,positive,positive,1,suggestion
+8175,37,ඩොලමිට් නිදිය චීන්නු හාරන්නෙ කොහෙන්දෙ,neutral,neutral,1,feedback
+8176,22,නොහුදකින් නුවර නිලමෙලා,negative,negative,1,feedback
+8178,34,සුද්දන්ට රට පාවාදුන්නෙත් ඕකුන් තමා,negative,negative,1,feedback
+8184,38,මොකද්ද බං බවුන්ඩේසම කියන්නෙ. නෙමෙයි ද.,neutral,neutral,1,inquiry
+8185,13,ගලට ඇන්ගල් කර,neutral,neutral,1,other
+8189,28,අනේ බෝයි මායි දන්න බවුන්ඩේසම,negative,negative,1,feedback
+8198,35,තත්වයක් තියෙන මනුස්සයෙක්. පව් වැඩේ.,negative,negative,1,complaint
+8200,39,තාත්තගෙ ආදරේ අම්මගෙ ආදරේට දෙවෙනි නෑ නේද,neutral,neutral,1,inquiry
+8201,21,වහා ප්රතිකාර අවශ්යයි.,neutral,neutral,1,feedback
+8208,42,දරුවා අත්දෙකින්ම අල්ලා ගනින් පොර වෙන්නැතුව,negative,negative,1,feedback
+8211,37,ඔයානම් පයක් ගියත් ෆෙස් බුක් දානවා නේද,neutral,neutral,1,inquiry
+8212,25,බොමුද සීතල වතුර වීදූරුවක්,neutral,neutral,1,feedback
+8216,11,අයියෝ සජිත්,negative,negative,1,feedback
+8218,38,උබලා වගේ මෝඩයින්ට කිව්වට වැඩක් නැහැහේ.,negative,negative,1,complaint
+8219,19,තෝ වගේ මෝඩ මුසලයෙක්,negative,negative,1,complaint
+8233,37,ඉතිං අපිට පාන්ද.මුන්ට කඩේ නොයා හිටහං.,negative,negative,1,complaint
+8236,25,මළවිකාර. මෙන්න රටේ ප්රශ්න,negative,negative,1,complaint
+8252,23,ඉස්සර ඉඳලා තියෙනවා නේද,neutral,neutral,1,feedback
+8256,22,මහාචාර්ය ජනිතා ලියනගේ.,neutral,neutral,1,feedback
+8262,29,ඔන්න නුවර නිළමේලාගේ තරම හූ හූ,negative,negative,1,feedback
+8282,21,පාර්ලිමේන්තු වට යවමු.,neutral,neutral,1,feedback
+8283,41,නියම ලොජික් එක. සුදුසුම දේ.ඒකයි.ලන්කාවනේ.,positive,positive,1,feedback
+8287,27,කවුද මේ කියන බස්නායක නිලමේ.,neutral,neutral,1,inquiry
+8297,36,පාර්ලිමේන්තුවක් කඩා වැටී 225 ක් මරුට,negative,negative,1,complaint
+8303,26,දුරස්ත අද්යාපනයට වෙන්න ඇති,neutral,neutral,1,feedback
+8306,9,වැල බලන්ඩ,neutral,negative,0,other
+8309,30,දීපු ලැප්ටොප් ටිකට මොකද වෙන්නෙ,neutral,neutral,1,feedback
+8314,31,ලංකාවේ දැවෙන ප්රශ්නයක් විසදුනා.,positive,positive,1,feedback
+8353,35,එතකොට දෙවෙනි ඉනිම නෙමේ ද හොදම ටෙලිය,neutral,neutral,1,feedback
+8367,29,අනේ මන්දා මට නම් ග්රීක් වගෙයි,negative,negative,1,feedback
+8368,34,ලෝකෙ තිබ්බ ලොකුම ප්රශ්නයක් විසදුනා,positive,positive,1,feedback
+8370,25,ඉතින් අපිට කියන්නෙ ඇයි ඕක,neutral,neutral,1,inquiry
+8372,27,ඉතින් අපිට ඇති රුදාව මොකක්ද,negative,negative,1,complaint
+8378,34,නුඹලාට ඉන්දියාව හැර වෙන රටක් නැද්ද,neutral,neutral,1,inquiry
+8388,32,කඩුවෙල කියන්නේ මාෆියා සිටි එකක්.,negative,negative,1,feedback
+8426,20,වැලමිට්ට මාංචු දානවද,neutral,neutral,1,feedback
+8437,14,කයිවාරු පප්පා.,negative,negative,1,feedback
+8448,8,අනේ මන්ද,negative,negative,1,feedback
+8458,37,බය්යෝ සාපේක්ෂව වැඩි රටක් නේ ඉන්දියාව.,negative,negative,1,feedback
+8469,30,අපරාදෙ මූව ගහෙන් වැටුන්නැත්තෙ.,negative,negative,1,complaint
+8470,17,බොරු සෝබන කාරයෙක්,negative,negative,1,complaint
+8474,13,ගැලපෙන රස්සාව,positive,positive,1,feedback
+8477,21,මිනිහෙකුගෙ කරට නගියි.,negative,neutral,0,feedback
+8478,38,උඹම ඉතින් ඔය පැත්තෙ පොල් ටික කඩාපන්කො.,neutral,neutral,1,feedback
+8479,9,මෝඩ චූන්.,negative,negative,1,complaint
+8486,36,අනේ මෙික කඩන් වැටිලා මුව මැරුනේ නැනේ,negative,negative,1,feedback
+8488,12,අඩි 2 නැග්ගෙ,neutral,neutral,1,other
+8489,30,පරණ ක්රමයක් හැබැයි ප්රයෝජනවත්.,conflict,positive,0,feedback
+8491,38,හරකුන්ගේ ගොන්පාට් වැඩ නිසා ලෝකෙට වෙනවා,negative,negative,1,complaint
+8510,33,ඇයි මෙච්චර වකුගඩු රෝග කලාකරුවොන්ට,negative,negative,1,inquiry
+8512,10,බීබද්දෙක්ද,negative,negative,1,feedback
+8515,28,කමල් උදව් කලා.එයාට දුකක් නෑ.,positive,positive,1,feedback
+8520,37,දිල්හානි ඉල්ලුවනම් සලකා බලන්න පුලුවන්,positive,positive,1,suggestion
+8532,40,රිසරය වනසන පොඩි සැමට උපරිම දඩුචම් දෙන්න.,negative,negative,1,suggestion
+8534,31,ඔය කලුතර පැත්තේ එවුන් ඔහොම තමයි,neutral,neutral,1,feedback
+8559,23,අපිනෙ 23 අරන්දුන්නෙ මීට,neutral,neutral,1,feedback
+8564,32,පර්ලිමේන්තුව සිරිකොතක් කළ කරුමයා,negative,negative,1,complaint
+8569,37,ලංකාවේ දොස්තරලා දක්ෂයි. අපි ණයගැතියි.,positive,positive,1,feedback
+8583,37,මෙහෙම පිං බිමක් ලෝකෙ කොහෙවත් නෑලු ඕයි,positive,positive,1,feedback
+8588,10,කැලෑවේ නරි,negative,negative,1,feedback
+8589,27,සජිත් හිටිය නම් මේම වෙන් නෑ,neutral,negative,0,feedback
+8590,11,නරි නාවන්න.,negative,negative,1,feedback
+8593,25,මූ දැකල තියෙනව කොහෙදි හරි,neutral,neutral,1,inquiry
+8606,30,උබලට පුළුවන් ඉතිං රටට අරින්නනේ,negative,negative,1,feedback
+8611,37,ආර්තික ඔස්තාර් තවත් එක සත්වයෙක් පමනයි,negative,neutral,0,feedback
+8618,23,70ට පොල් කොහේද තියෙන්නේ,neutral,neutral,1,inquiry
+8628,34,දැන් නම් නියම වග හරක් හොර ඩයල් එක.,negative,negative,1,complaint
+8629,25,ඔය ඇමතිකම ලමයට දීපන් යකෝ.,negative,negative,1,feedback
+8630,29,ජනතාවට දුකයි. ඔහෙලට සැපාාායි.,negative,conflict,0,complaint
+8636,20,ඇත්තක් නැත්තේම නැහැ.,conflict,conflict,1,feedback
+8644,41,ඔකට යන්න එන්නම ඒ ඩිස්කවුන්ට් එක වැයවෙනවා.,neutral,conflict,0,feedback
+8647,32,දැන් ගුවන් තොටුපොළ අරින්නේ කවද්ද,neutral,neutral,1,inquiry
+8653,32,ලංකාවෙ කුරුල්ලො විකුණන එක තහනම්ද,neutral,neutral,1,feedback
+8658,37,භික්ෂුන් වහන්සේලාගේ චරිත නිරූපණය නිසා,neutral,neutral,1,feedback
+8670,28,දේශබන්ද.රෙදි නෑ නේද බං දැන්.,conflict,negative,0,complaint
+8673,39,දැං ඕක නේ මෙච්චර දවස්ක් මිනිස්සු කිව්වෙ,neutral,neutral,1,feedback
+8675,34,ඕක පොලීසියට තේරුම් කරලා දුන්නා නම්,neutral,neutral,1,feedback
+8685,34,අනේ මංදා අපි මුන්ට උස්සලාම දුන්නනෙ,negative,negative,1,feedback
+8707,28,හරින් හත් පොලේ ගාගෙන අවසන්ය.,negative,negative,1,feedback
+8718,39,දැන් බෝම්බ කාරය පැත්තක හරින් තමයි වැරදි,negative,negative,1,complaint
+8733,21,හරීන් මේකට අදාල නැනේ.,neutral,neutral,1,feedback
+8737,9,පට්ට හොරා,negative,negative,1,complaint
+8743,25,සහෝ මාතෘකාව ඒක නෙමෙයි නේද,neutral,neutral,1,inquiry
+8749,5,සිවුර,neutral,neutral,1,other
+8764,19,මූව නම් එල්ලන්න ඕනෑ,negative,negative,1,complaint
+8780,24,මහා සමුද්ර ජාතකය කියවන්න,neutral,neutral,1,suggestion
+8787,25,පුදුම කරුමයක්නෙ අප්පා ඒක.,negative,negative,1,complaint
+8795,41,මිනිස් ජිවිතයක් බල්ලට ගිහින් කාලකන්නියෙක්,negative,negative,1,complaint
+8805,33,මාර අලකලන්චියක් නේ වෙලා තියෙන්නේ.,negative,negative,1,feedback
+8809,27,උඹ මිනීමරුවාගේ නැදෙයෙක් නේද,negative,negative,1,inquiry
+8812,42,පාර අයිනෙ ලමයෙක් හිටියත් මුං ඇදගෙන යයි නේද,negative,negative,1,inquiry
+8824,36,පවු. ලැසියා හෙන අහිංසකයා. ඕකාව මරයි.,negative,negative,1,feedback
+8827,19,නෙදකින් පාහර යක්කු.,negative,negative,1,complaint
+8830,19,මුන්ව උල තියන්න ඕනෑ,negative,negative,1,complaint
+8832,15,ඇයි අප්පා එහෙම.,negative,negative,1,inquiry
+8835,26,තව කල් යනකොට මොනවා නොකරයිද,negative,neutral,0,feedback
+8837,13,පිස්සු හුටන්.,negative,negative,1,complaint
+8860,33,අනේ අපිට ඔයාල දෙන්නගෙන්ම වැඩක් නෑ,negative,negative,1,complaint
+8864,39,මම නං තොප්පිය දාගෙන තමයි ලැට් එකට ගියත්,negative,negative,1,feedback
+8868,41,උන්දලාට මොකද ඉතින් හැම දේම නිකන් ලැබෙනකොට,neutral,neutral,1,feedback
+8870,19,මරාගසක් රෝපනය කරයි.,positive,positive,1,other
+8877,34,තව පොඩ්ඩෙන් මුහුද අපිට නැති වෙනවා.,negative,negative,1,feedback
+8884,32,මහින්ද මහත්මයා වමත් පිතිකරුවෙකි.,neutral,neutral,1,feedback
+8886,13,අවන්ත නියමයි.,positive,positive,1,feedback
+8888,23,රනවිරු දඩයම වහා නවත්වනු,conflict,positive,0,feedback
+8889,32,රනවිරුවන් මර්දනය කිරීම වහා නවතනු,negative,negative,1,feedback
+8900,15,පව් අහින්සකයෙක්,conflict,conflict,1,feedback
+8910,31,ඉතින් පාරෙ නොයා හිටහංකො ලොල්ලො.,negative,negative,1,complaint
+8911,29,වස මන්තීරුව කියන්නේ මොකක්ද බං,neutral,negative,0,inquiry
+8913,38,එකට ඒකේ යන එවුන්ට වෙන්න ඇති දඩේ ගහන්නෙ,negative,negative,1,feedback
+8926,3,බං.,negative,neutral,0,feedback
+8938,10,පෙරටුගමියෝ,neutral,neutral,1,other
+8958,23,නානසාර නෙවේ ඥානසාර හිමි,neutral,neutral,1,feedback
+8959,38,පාර්ලිමේන්තු යන්න ගිහින් තාමත් නානසාර.,neutral,neutral,1,feedback
+8962,11,සුග පැතුම්.,positive,positive,1,greeting
+8965,39,අපෝ මදි. 75 ක් 80 ක් වෙන්න ඕනෙ අපේ වගේ.,negative,negative,1,feedback
+8966,37,අපිත් ඊළග සැරේ වාමාංශික අනුරට එච්චරයි,neutral,neutral,1,feedback
+8972,31,නියමයි අපේ නාමල් ස ටත් 35යි නේද,positive,positive,1,feedback
+8974,34,සල්ලි තියෙනවනම් ඕවා කරන්න යන් නෑනේ,neutral,neutral,1,suggestion
+8977,40,කියන්නේ ලා දිවයිනේ ලියාපදිංචි අපරාදකරුවෝ,negative,negative,1,feedback
+8979,8,පව් ළමයා,negative,negative,1,complaint
+9036,36,විශ්වවිද්යාල පාලකයින් ස්වයංවින්දනයේ.,positive,positive,1,feedback
+9055,38,පල්ලි කෙසේ වෙතත් උඹේ තාත්තා දැන සිටියා,neutral,neutral,1,feedback
+9064,23,හරීන් ඉල්ලන් කන්න යන්නෙ,negative,negative,1,feedback
+9081,7,ඇමතිලා.,neutral,neutral,1,other
+9088,20,සජිත් වත් අනාත කරපන්,negative,negative,1,feedback
+9095,28,මූ හින්දා තමා මහත්තයා පරදුනේ,negative,negative,1,feedback
+9110,27,මාධ්ය ප්රකාශයක් විතරයි හොඳෙ,neutral,neutral,1,feedback
+9114,40,නීතියක් රීතියක් නැතිබව එතුමත් පිලිගන්නවා,negative,negative,1,feedback
+9125,28,හමුදා විනය පුරුදු කරන්න ඇති.,positive,positive,1,feedback
+9127,26,හොදම විනය තියෙන්නෙ එයාලටනෙ,positive,positive,1,feedback
+9128,22,විනයක් ඇති රටක් විනයක්,positive,positive,1,feedback
+9132,32,චන්දෙ ඉල්ලුවොත් 69 ලක්ෂයක් සුවර්,neutral,positive,0,feedback
+9145,31,20ට අත උස්සලා ගමට නාවට කමක් නෑ.,negative,negative,1,complaint
+9148,35,දොස්තරලගෙන් සල්ලි ගත්තට නම් කමක් නෑ,neutral,neutral,1,feedback
+9150,26,මනා සංවරයකින් ගත් කප්පමක්.,negative,conflict,0,feedback
+9187,18,එක රටක් එක නීතියක්,neutral,positive,0,feedback
+9188,30,හොර පවුලේ එක එකා නිදහස් වෙනවා.,negative,negative,1,complaint
+9191,39,ඌත් ගොඩ වගෙයි. බයියනේ දෙන්න අත්පොඩියක්.,conflict,negative,0,suggestion
+9203,27,ඔය කොයි වීරයත් ඒවට බයයි බං.,negative,negative,1,feedback
+9216,23,කඩේ යන්න පර්යේෂණ නැතැයි,neutral,neutral,1,feedback
+9218,11,සුපිරි බඩුව,conflict,positive,0,feedback
+9219,19,සුපිරි වැඩ්ඩෙක් නේද,positive,positive,1,feedback
+9223,13,ඕවර් ඇක්ටින්.,negative,negative,1,feedback
+9229,37,චීනෙත් එක්ක මුකුත් නැති උනාට කමක් නෑ.,neutral,neutral,1,feedback
+9234,42,සිහින තිබුනට කෝටියක් වෙන්නේ නැනේ කිසිදෙයක්,negative,negative,1,feedback
+9235,42,ඩීසල් සැට් එක ගොඩ යන්න වගේ හදන්නෙ.අහෝ ඩලස්,negative,negative,1,suggestion
+9246,42,අපිට මත් වෙන්නත් දැන් අයිතියක් නැද්ද එතකොට,negative,negative,1,inquiry
+9248,10,රෝල් කරලා.,neutral,neutral,1,other
+9250,27,ඒක හොයා ගත්තෙත් පිටරැටියෙක්,neutral,neutral,1,feedback
+9253,20,පරණ.ලව් එකක් ද දන්නැ,neutral,neutral,1,feedback
+9254,41,කන් ගැට්ටා 2 පෙන්නන්නයි යන්නේ ඉතා ඉක්මනටම,negative,neutral,0,feedback
+9258,41,සජිත් ප්රේමදාස තරුණ නායකයෙක් වන්නේ කෙසේ ද,neutral,neutral,1,feedback
+9261,23,22 න් පස්සෙ නාකිද එතකොට,neutral,negative,0,feedback
+9264,24,චන්දෙ දාන වයසත් 22 කරන්න,neutral,neutral,1,suggestion
+9265,21,කාලා වරෙන් තෙල බහින්න,negative,neutral,0,feedback
+9266,12,තවත් රංගනයක්,neutral,neutral,1,other
+9272,28,අපේ නාකි හම්පඩයන්ට මොකුත් නෑ,negative,negative,1,complaint
+9274,33,යාපනෙන් අව හද්ද නාකි ගෙනද කියන්නේ,negative,negative,1,feedback
+9288,40,තව මාස 4ක් ක් ඉවසන්න බබා මී අපි වෙනුවෙන්,positive,positive,1,feedback
+9312,31,සබාපතිගෙ පක්ශෙ කියලා නැත්තෙ ඇයි,neutral,neutral,1,inquiry
+9319,20,ඔහොම යනකොට හතටත් එයි,neutral,neutral,1,feedback
+9327,17,පට්ටපල් බොරු ඕවා.,negative,negative,1,complaint
+9331,25,අපි නොදන්න පොලීසියේ සටහන්,negative,neutral,0,feedback
+9332,16,පොලිස්කාරයො බබාල,negative,neutral,0,complaint
+9334,30,දුර්වලතාවයන්ට හොදට ගෙවනවා ඇති.,negative,negative,1,feedback
+9338,33,ඕවා මෙහෙ උනානම් අපි දන්නවා කරන දේ,neutral,positive,0,feedback
+9348,32,තවම ඉන්නේ කොන්ද පණ නැති සිරිසේනද,negative,negative,1,feedback
+9352,24,අඟුලානෙ ගෑනු කරපු දේ හරි,conflict,positive,0,feedback
+9363,28,ඉන්න ඉන්න හිතෙන රාජපක්ස රටක්,positive,neutral,0,feedback
+9395,21,බොරු නොකියා ඉදින් යකෝ,negative,negative,1,complaint
+9396,26,උඹට අමාරුයිද ඇත්ත කියනකොට.,negative,negative,1,complaint
+9407,40,267 ක් මරල සන්තෝස විච්ච කට්ටියකුත් හිටිය,negative,negative,1,feedback
+9420,27,විමලසිරි ගම්ලත් මාලා ඇන්ටි.,neutral,neutral,1,feedback
+9421,12,ඒ දෙන්නා ගොඩ,positive,positive,1,feedback
+9434,27,ඉතාමත් අසභ්ය කියන්නේ කොහොමද,negative,neutral,0,inquiry
+9456,2,ස.,neutral,neutral,1,other
+9467,33,දැන් බස් ගැමුණුද රට පාලනය කරන්නෙ.,neutral,neutral,1,suggestion
+9469,19,සී ලංකා පොලොස් මොලේ,negative,negative,1,feedback
+9502,19,ගැමුණුගේ කතාව ඇත්ත.,positive,positive,1,feedback
+9507,35,බෝඩ් අල්ලන් ඉන්නද පොලිසිය තියෙන්නෙ.,neutral,neutral,1,feedback
+9517,15,මූව එල්ලන්න ඕනෑ,negative,negative,1,complaint
+9520,38,ඕක තමා ඇත්ත එත් ගොඩක් උන්ට තේරෙන්නේ නෑ,negative,negative,1,complaint
+9527,12,දියවන්නාවෙ ද,neutral,neutral,1,other
+9532,34,මෙයාට උපදෙස් දුන්න පිරිසකුත් අැති.,neutral,neutral,1,feedback
+9535,32,මූත් හංගපු ආයුධ ඇති බලමුද ගිහින්,negative,negative,1,feedback
+9549,7,ඇහුන්නෑ,negative,negative,1,complaint
+9569,34,සිංදුවේ අයිතිකාරයාට ලැබෙන්නෙ මොනවද,neutral,neutral,1,feedback
+9580,8,අනේ මංදා,negative,negative,1,feedback
+9584,33,ගයාන් හරක වුනාට පුත්තු මනුස්සයොනෙ,negative,negative,1,feedback
+9588,28,ඒ ලමයි එලවලා දාලා ගොඩක් කල්.,negative,negative,1,feedback
+9598,11,කෝ පූර්නිකා,neutral,neutral,1,other
+9601,14,ගයත්රී ආන්ටි 3,neutral,neutral,1,feedback
+9610,8,චතුරිකා.,neutral,neutral,1,other
+9611,10,දරහැව. 23.,neutral,neutral,1,other
+9620,37,ගානියා බැරිස්ටර් පාට් රෙකෝඩින් මැකුනා,neutral,neutral,1,feedback
+9630,28,එන්නම එපා.අපිට උන් එක්ක එපා.,negative,negative,1,complaint
+9631,38,නිරෝධායනයට කැමති කණ්ඩායමක් ගෙන්නපල්ලා.,neutral,neutral,1,feedback
+9656,38,මෙන්න 100 කනස්සල්ලෙන් පසු වෙන ටෝයියෙක්,negative,negative,1,feedback
+9658,34,මැරෙන බව කියලා ලියුමකුත් තියලා නේද,negative,negative,1,inquiry
+9666,19,මූ කොහෙද බන් ඉන්නේ.,neutral,neutral,1,inquiry
+9683,23,දැන් අපි මොකද කරන්න ඕන.,neutral,neutral,1,suggestion
+9687,12,බැරියැ ඉතින්,neutral,positive,0,other
+9688,2,හා,positive,positive,1,other
+9690,17,ඉතින් අපිට පාන් ද,negative,negative,1,feedback
+9697,27,මෙයත් ඒ පාරේ යන කෙනෙක් වගේ.,neutral,neutral,1,feedback
+9705,35,උඹ වගේ ගොන් හරකෙක් යකෝ මෝඩ මූසලයෙක්,negative,negative,1,complaint
+9708,27,සිවුරක් දාගත්ත බාර දයියෙක්.,negative,negative,1,feedback
+9709,36,නොදකින් විතරක් උතුම් චීවරයට ගිය කලක්,negative,negative,1,complaint
+9713,29,මු කවුද. කොහේ හිටපු නරියෙක්ද.,negative,negative,1,inquiry
+9717,25,තෝ ඉස්සර වෙලා මහන වෙයං ප.,negative,negative,1,feedback
+9719,39,දැන් හැම එකාම කුලපති තනතුරකට කෙල හලනවා.,negative,negative,1,feedback
+9730,23,සුදු ඇදගෙන කලු ඇවිදින්.,neutral,neutral,1,feedback
+9731,20,කහ ඇදගෙන කලු ඇවිදින්,neutral,neutral,1,feedback
+9739,33,ඊරිසියයි නේද යන්න බැරි නිසා. පවු.,negative,negative,1,inquiry
+9742,4,වල ද,neutral,neutral,1,other
+9750,34,මැති ඇමතිලාගේ පුප ලෙවකන එක සැපයි ද,negative,negative,1,complaint
+9752,34,ඕක පාඩුවෙලා බංකොලොත් වෙන එකමයි හොඳ,negative,negative,1,feedback
+9756,19,ඇරිය නේද රට විරුවට.,negative,negative,1,inquiry
+9764,25,අනියම් ඇසුර විනාශයට මුලක්,negative,negative,1,complaint
+9765,20,මේක එක්කනේක්ගේ වැඩක්,neutral,neutral,1,feedback
+9769,35,මේක කරපු එවුන්ට කල්ප 90 කට බඩු හරි.,negative,negative,1,feedback
+9776,38,මේක කරපු පාපතරයා ගැන සොබාදහම බලා ගනීවි,negative,negative,1,feedback
+9785,8,හිටගෙනඩ.,neutral,neutral,1,other
+9796,28,කියන්නෙ තාක්ෂණයක් නෙමෙයි බන්,neutral,negative,0,feedback
+9804,18,බඩ තඩියා අබ මොලයා.,negative,negative,1,feedback
+9810,11,එතකොට මත්තල,neutral,neutral,1,other
+9814,38,ලංකාවෙදි මෙයාට නෙද එකෙන් බෝම්බ ගැව්වෙ.,negative,negative,1,complaint
+9819,35,උඩයන්ති ශුදා වත් දැන් නිදහස් කරලාද.,neutral,neutral,1,feedback
+9821,38,අනේ නන්ගි මහින්ද මහත්තයගෙ බාරෙත් ඕකමනෙ,neutral,neutral,1,feedback
+9823,22,හ හ හා එකතුව ගවයින් 16,negative,negative,1,feedback
+9837,27,පිං පල දෙනවා අඩුයි. අපරාදෙ.,negative,negative,1,complaint
+9841,39,කුඩු සල්ලි කලු සල්ලි මොනවා කරත් වැරදියි,negative,negative,1,feedback
+9846,38,මූ මැරිලා නැහැ කියලා හිතෙන්නේ මට විතරද,positive,positive,1,feedback
+9853,32,එකක් සාර්තක උන ලොව පලමු අවස්තාව.,positive,positive,1,feedback
+9858,38,කෝ බෝල මේකේ ශ්රී ලංකාව. මට පෙන්නේ නැනේ,negative,negative,1,feedback
+9861,27,එතනත් පවුල් පාලනයක් ම තමයි.,neutral,neutral,1,complaint
+9863,41,ලබන 2021 ජනවාරි 01 දක්වා රනිල් වික්රමසිංහ,neutral,neutral,1,feedback
+9866,16,මොකක්ද මේ පක්ෂෙ.,neutral,neutral,1,inquiry
+9867,9,කියල එකක්,neutral,neutral,1,other
+9872,22,එහෙනම් කොල්ලෝ අපි ගියා,neutral,neutral,1,feedback
+9875,13,මාමාගෙන් බැනට,neutral,neutral,1,feedback
+9879,16,අනිච්චාවත සංකාරා,negative,positive,0,feedback
+9885,13,ඉවරෙටම ඉවරයි.,negative,negative,1,feedback
+9892,23,මීට අගතියට පත් ටොයියෙක්,negative,negative,1,feedback
+9893,18,ඔව් බං මම ටොයියෙක්,negative,negative,1,feedback
+9895,29,මුන් සේරම කම්බා හොරු මතකනැද්ද,negative,negative,1,complaint
+9901,21,යකෝ.අකිල තමා සුදුස්සා,conflict,positive,0,feedback
+9902,19,ලොවෙත් ගොඩ එන්නේ නෑ,negative,negative,1,complaint
+9908,4,ස039,neutral,neutral,1,other
+9921,40,බල්ලෙක් රිංගලා මේක අස්සේ හැමතැනම රෙ මොකද,negative,negative,1,feedback
+9922,35,හිර කූඩුවලම්නේ එල්ලෙන්නේ සබාවේ සිනා,negative,negative,1,feedback
+9923,24,මිනී මැරුමක් වෙන්න බැරිද,negative,negative,1,inquiry
+9925,12,මරලා එල්ලුවද,negative,negative,1,feedback
+9931,30,ජනපතිට පින් මුන් සේරම අල්ලන්න.,positive,positive,1,greeting
+9945,28,අපෙ උන්ව එහෙට යව්වනම් හරිනේ.,positive,positive,1,suggestion
+9946,25,ඔන්න ඕක පොඩි එකෙකුට දීපන්,negative,neutral,0,feedback
+9962,39,මෙවලම් කලවම් වූ ලෝකයේ ජීවිත අවලම් වෙති.,negative,negative,1,feedback
+9970,18,බලු හිමියා අධමයෙක්,negative,negative,1,complaint
+9985,34,බල්ලා ඇත්තටම හිටියෙ කොතනද සොරකමක්ද,negative,negative,1,complaint
+9994,41,50 ට දුවපු හයර් ටිකත් මුන්ට නැතිවෙන වැඩක්,negative,negative,1,feedback
+10000,13,මොලේ බලව ගනිං,negative,negative,1,feedback
+10006,25,මුන්ට ඌරුමස් කවන්න වටිනනේ,negative,neutral,0,feedback
+10025,25,එතැන ට වෙනතුරු ආවෙ කොහොමද,neutral,neutral,1,inquiry
+10031,34,ඒවා බල්ලට ගිහින් කියලා දන්නෙ නැද්ද,negative,negative,1,complaint
+10033,28,පරණ කෑල්ලක් වෙන්නත් පුලුවන්.,neutral,negative,0,feedback
+10047,8,පාරෙ බෑ.,negative,negative,1,feedback
+10051,25,මේකද මේ රටේ ලොකුම ප්රශ්නය,negative,negative,1,feedback
+10066,6,නියමය්,positive,positive,1,feedback
+10075,38,මෙයාලවත් පාර්ලිමෙන්තුවට ගන්ඩ බැදි සැර්,neutral,neutral,1,feedback
+10085,36,උබේ කොමෙන්ටුවටම ගැලපෙන නම පශු සම්පත්,positive,positive,1,feedback
+10097,29,එහෙම කරන්න වෙලා තියෙන්නෙ ඇයි.,neutral,neutral,1,suggestion
+10100,36,අඳකරණය සුවාධීන කොරා අපේ හාමුදුරුවනේ.,positive,positive,1,feedback
+10102,27,දුමින්ද කුසලානය ගන්නේ කවුද.,neutral,neutral,1,inquiry
+10127,24,අපේ හාමුදුරුවන්ටත් හිනා.,positive,positive,1,feedback
+10134,22,මොන ජාතියේ විහිළුද මේ.,negative,neutral,0,inquiry
+10157,18,ඇයි රටට හොරු පැනලද,negative,negative,1,complaint
+10174,42,කෙල්ල පෙග්නන්ට් අපරාදෙ උපදින්න හිටපු මොමඩ්,negative,negative,1,complaint
+10178,10,මෝඩ නවුපර්,negative,negative,1,complaint
+10183,39,කෙල්ලට එක නැතිවෙයි කියල බය හිතෙන්න ඇති.,negative,negative,1,feedback
+10187,21,බඩුකාරයෝ ද මනුෂ්යයෝය.,conflict,neutral,0,feedback
+10188,8,බඩු ලාල්,negative,neutral,0,feedback
+10192,37,මොන හොදක්ද බං මොලේ කචල් කියලයි ආරංචිය,negative,negative,1,inquiry
+10202,39,මේකි අහිංසක පවුලක් විනාශ කරපු හැතිරියක්,negative,negative,1,complaint
+10203,41,පොතේ තියෙන්නෙ මෙහෙම අයව කොහොම මරන්න කියලද,negative,negative,1,inquiry
+10218,23,විශ්වය පුරා විහිදී ගියා,positive,positive,1,other
+10219,23,විශ්වය පුරා රෙවිලා ගියා,negative,negative,1,feedback
+10229,35,කටේ නරි වාදන් රෙද්ද පල්ලෙන් බේරෙනවා,negative,negative,1,feedback
+10233,24,මෙහෙමයි මචන් ගෝඨාභය ආවම.,neutral,neutral,1,feedback
+10241,30,ඔය කමල් කොහොමද වියතුන් මඟ වුණේ,neutral,neutral,1,inquiry
+10242,38,පිරමිඩ් ජාවාරම් කරපු වියතෙකු ත් ඉන්නේ.,negative,negative,1,feedback
+10256,40,1815 දී අපට කරපු දේට සුද්දොන්ටත් බනිමුකෝ,negative,negative,1,feedback
+10257,16,චොකා මල්ලි නැද්ද,neutral,neutral,1,inquiry
+10266,13,දැන් කියත් මග,neutral,negative,0,feedback
+10271,37,එකට කටයි පුයි වහ ගෙන ඉන්න කියන්න ඇති.,negative,negative,1,feedback
+10272,36,වියත්මගේ නොවියත්තුත් ඉන්නවා මේ ගොඩේ.,negative,negative,1,feedback
+10273,29,මෝඩ චූන්. අනේද කියන්නේ බයියෝ.,negative,negative,1,complaint
+10274,41,තව ඉතුරු කැලෑවල් මොනවද කියලා අහනූඩ වෙන්ඩැ,negative,neutral,0,feedback
+10275,9,ඕෂධී නෑනේ,neutral,negative,0,other
+10280,39,මගේ වියතෙන් නම් මම වන වැඩක් කරන්නේ රෑට.,neutral,neutral,1,suggestion
+10281,35,වියත්මග කොහොම වෙත්ත කාලේ කන්න ඉණිමග,negative,negative,1,inquiry
+10303,17,හරිම ලස්සන පොතක්.,positive,positive,1,feedback
+10304,12,ලස්සන කවරේ ද,conflict,neutral,0,feedback
+10309,16,ලැජ්ජාවෙ පන යනවා,negative,negative,1,feedback
+10322,42,මේ හිනා වැස්ස ලියන එකා නම් නියම අවජාතකයෙක්,negative,negative,1,complaint
+10325,40,අනේ ඉතින් අපි බදු ගෙවලා නඩත්තු කරන්නංකෝ.,negative,conflict,0,suggestion
+10326,24,යුව රජලා මරාගනී ද දන් නෑ,negative,negative,1,complaint
+10329,35,69 ලක්ෂ යම පොලිමට යන්න දැන් වදින්න.,neutral,neutral,1,feedback
+10334,28,නාමල් බේබිට තවත් බෙබී කෙනෙක්,neutral,neutral,1,feedback
+10338,25,අපේ ඊලග ඊලග රජතුමා මීට 69,neutral,neutral,1,feedback
+10344,38,තවත් රාජපක්ෂ කාලකන්නි යෙක් බිහිවු වගයි,negative,negative,1,complaint
+10364,25,තෙරුවන් සරණයි. සුභ පැතුම්,positive,positive,1,greeting
+10368,39,දැන් මහින්ද මුත්තා සීයා නෙමෙයි දෙ සියයි,neutral,negative,0,feedback
+10373,29,ක්රිඩා ඇමති නියමට කරලා දවසටම.,positive,positive,1,feedback
+10374,17,පවි සජියගෙ පරපුරට,neutral,negative,0,feedback
+10375,29,ඩොලර් කාක්කෝ මේක කුමන්ත්රණයක්,negative,negative,1,complaint
+10380,36,කාලයක් කිවුවා ආසියාවේ හොඳම මොලය කියල,conflict,positive,0,feedback
+10383,26,රුවන්ට නායකත්ව ලක්ශන තිබේද,neutral,neutral,1,feedback
+10394,35,කාලා බීලා දවසම නිදියන්න කියාපු බඩුව,neutral,neutral,1,feedback
+10397,23,කොහොමත් එක සදා හාන්සියි,negative,negative,1,feedback
+10398,7,ඒක ඇත්ත,positive,positive,1,feedback
+10415,38,ඔය වංස කබල් ගාලා එන නායකයන්ට තැනක් නැ.,negative,negative,1,feedback
+10426,33,විජේවීරගේ පුතාට විතරක් නෝ සැලකුම්,negative,negative,1,feedback
+10427,39,තවත් දොන් ජුවන් ධර්මපාල කෙනෙක් අපිට එපා,negative,negative,1,complaint
+10468,27,එකට නයාගෙ එකක් දම්මනම් පට්ට,positive,neutral,0,suggestion
+10469,41,අර ආපු නයාගෙ විස්තරෙත් ඕකෙ තියෙනවද ආයිබෝං,neutral,neutral,1,greeting
+10493,37,බිත්තර හදන්න පටන්ගත්තේ 199394 වගේ ඉදං,neutral,neutral,1,suggestion
+10513,31,මුන් බදින්නේ ඔක්කොම ලංසි කෙල්ලෝ,neutral,neutral,1,feedback
+10517,22,මහමෙව්නාවේ කිරිබතා වගේ,neutral,neutral,1,feedback
+10526,26,ලංකාවෙ ක්රිකට් මාකලන්ද අතේ,negative,neutral,0,feedback
+10528,21,අනිවාර්යයයෙන් සහෝදරයා,positive,positive,1,suggestion
+10534,40,පවුල පිට යන ගොන් කවඩියාගේ ටෝක් බලපල්ලාකෝ,negative,negative,1,complaint
+10537,35,ඕකා පිම්පි රස්සාව තමයි එදා ඉදලම කලේ,negative,neutral,0,feedback
+10541,13,අබ්බගාත ජීවිත,negative,negative,1,feedback
+10563,27,ආ. ගොබෙල්ස් ලොල්ලෙක් නේද මේ,negative,neutral,0,inquiry
+10566,19,ආමෙන් ජේසු පිහිටයි.,positive,positive,1,greeting
+10581,19,පව් අහිංසක මිනිස්සු,negative,negative,1,complaint
+10592,42,ඔය අඹරන්නේ ලණුව බැංකු ටිකටත් බඩු බනිස් නේද,negative,negative,1,inquiry
+10594,21,අර කලිසම ගලෝගෙන ඉන්නේ,negative,negative,1,feedback
+10608,24,ඔය 8න් 5ක්ම ස්කූටි පෙප්.,neutral,neutral,1,feedback
+10609,15,යතුරුපැදි මාරයා,negative,negative,1,feedback
+10625,15,කියන්නේ කුමක් ද,neutral,neutral,1,feedback
+10631,41,ළඟදි මෙයාගේ එකක් ලීක් උනා පව් ලස්සන කෙල්ල,negative,negative,1,complaint
+10635,19,ශිවානිට කොන්ද පන නෑ,negative,negative,1,complaint
+10661,40,ඔයා සහ ඔයාගේ නංගි අතර නම් ඒක ලොකු අවුලක්,negative,negative,1,feedback
+10663,3,මහී,neutral,neutral,1,other
+10664,21,මොකද්ද කියන්නේ නැත්තේ,neutral,neutral,1,inquiry
+10673,40,අයියෝ මෙච්චරටම මානසිකයි කියලා අදයි දන්නෙ,negative,negative,1,feedback
+10675,35,පොර 5 වසර අසමත් ඒකෙ තරහ තියෙන්නෙ ඔය,negative,negative,1,feedback
+10693,37,එතකොට යාලුවා කියන එකා මොන රටේ එකෙක්ද.,negative,neutral,0,inquiry
+10701,24,ආසියානු ජාත්යන්තර පාසලේ.,neutral,neutral,1,feedback
+10703,35,මෙයා ලංකාවේ ප්රසිද්දම එකක වැඩ කරනවා,positive,positive,1,feedback
+10704,18,ඒවුණාට ඕක ෂුවර් නෑ,negative,negative,1,complaint
+10718,17,තණ්හාය ජායතී සෝකෝ,negative,negative,1,feedback
+10723,34,අරුන් දෙන්නා බැඳලා ඉවරවෙන්නැද්ද බං,neutral,neutral,1,suggestion
+10736,34,හොඳට හිටපු පුතෙක් ඇද වැටිච්ච තැනක්,negative,negative,1,feedback
+10745,37,හෙරොයින් ග්රෑම් 100කට අධික ප්රමාණයක්.,negative,neutral,0,feedback
+10785,17,නවනිංගිරාවට පත්වූ,negative,negative,1,feedback
+10792,32,ඔබ වීරයෙක් මට නම්.මගෙ තාත්තා වගේ,positive,positive,1,feedback
+10793,13,මිහින් ලංකා 2,neutral,neutral,1,feedback
+10794,33,රටේ ඒකපුද්ගල ණය ප්රමාණය උඩු ගුවනට,negative,negative,1,feedback
+10801,22,අවුලක් නෑ රට බේරගත්තනේ,positive,positive,1,feedback
+10815,7,හිටං නෙ,neutral,neutral,1,other
+10819,36,පොලිසිය හොයාගනී. ටෙලිනාට්ය යේ කොටසකි,neutral,neutral,1,feedback
+10820,14,මම නම් නෙමෙයි.,neutral,negative,0,feedback
+10823,23,බොරු නිෂ්පල වැඩ.කුජීතයි,negative,negative,1,complaint
+10834,33,මේක නම පැහැදිලි ව අත්දකින ඇත්තක්.,positive,positive,1,feedback
+10839,40,ලංකාවේ පරිසර දූෂණය සහ විනාශය ඉහල ගිහින්.,negative,negative,1,complaint
+10848,8,ඊරිසියාව,negative,negative,1,feedback
+10851,27,නම් එක ආපසු කරලා එන්න කියමු,neutral,neutral,1,feedback
+10862,32,එක වගේ ම තමයි මුන්ගෙ අනිත් වැඩත්,neutral,neutral,1,feedback
+10870,36,අවධානය යොමුකරනවා විතරක් වෙයිද දන්නෑ.,neutral,negative,0,inquiry
+10881,14,අන්න හොඳ වැඩක්,positive,positive,1,feedback
+10888,28,පපුවෙන්මයි පෙනුම ගන්න හදන්නෙ,neutral,neutral,1,suggestion
+10890,37,ෂාරුක් ඛාන්ට විග් එකක් දාලා වගේ අයිසෙ,negative,negative,1,feedback
+10900,25,වරදට මෙම පියා වගකිව යුතුය,negative,negative,1,suggestion
+10901,36,බයික් එකේ ලොකු තුන්දෙනෙක් ගිහින් නේ.,neutral,neutral,1,feedback
+10907,29,මෙයාව ගන්න එකට උපදේශකයකු ලෙස.,neutral,neutral,1,feedback
+10913,12,උද්දික හොද්ද,neutral,neutral,1,other
+10918,31,පව් ගෙ.මොන තරං අසරණ වෙන්ඩ ඇද්ද.,negative,negative,1,inquiry
+10923,17,ඇයි ඔයාට මොකද කලේ,neutral,neutral,1,inquiry
+10925,42,ෂුවර් එකට ඌගේ කොල්ලවත් ඌ අපයෝජනය කරලා ඇති.,negative,negative,1,feedback
+10936,38,වුණත් සාම තෑගි ගත්තට කරපු වැඩක් නැහැනෙ,negative,negative,1,complaint
+10944,38,පුදුම මිනිස්සු ඉන්න රටක් මේ සිරි ලංකාව,positive,positive,1,feedback
+10958,40,සිරකරුවන් වැඩිවීම රටකට හොඳ දෙයක් නෙමෙයි.,negative,negative,1,feedback
+10959,29,ඔවු බෝගම්බර නිදන් ටික හැරුවනේ,negative,negative,1,feedback
+10978,33,එතකොට බුදුපිළිම කැඩුවට කමක් නැද්ද,negative,negative,1,inquiry
+10988,35,ඒක අනිවාර්යයෙන්ම සොයා බැලිය යුතුයි.,neutral,neutral,1,suggestion
+11001,27,කවුද මේ රෙදි නිර්මාන කරන්නෙ,neutral,neutral,1,suggestion
+11002,37,අපේ රටට මේ සාරි ගෙනෙන්නෙ ඉන්දියාවෙන්.,neutral,neutral,1,feedback
+11028,7,කේරළයේ.,neutral,neutral,1,other
+11029,38,මහ නා හිමිවරු දැන් ඕව තමයි පෝම් කරන්නෙ,negative,negative,1,suggestion
+11042,32,උඹ දොස්තර ද නිකන් කට වහන් හිටපන්,negative,negative,1,suggestion
+11043,26,අපේ රටේ ඇත්ත නරිත් ඉන්නවාද,neutral,neutral,1,feedback
+11049,12,කැලේ නරියෙක්,neutral,neutral,1,other
+11059,10,නරි බෑනා ද,neutral,neutral,1,feedback
+11075,30,සූකරයෝ තමයි ඔයවගේ වැඩ කරන්නේ,negative,negative,1,suggestion
+11093,24,දකින්න අප්පිරිය එකෙක් මූ,negative,negative,1,feedback
+11094,27,ඒත් කතානායක ඔයගොල්ලොන්ගෙ නෙ,neutral,neutral,1,inquiry
+11097,39,නඩුත් හාමුදුරුවන්ගේ බඩුත් හාමුදුරුවන්ගේ,negative,negative,1,feedback
+11106,35,කුමට එරට අධිකරණය නීතිය සහ විනිසුරන්,negative,negative,1,other
+11112,24,උන්ගේ ජීවිත. උන් ගේ තීරන,neutral,neutral,1,feedback
+11134,20,ඊළඟ කෑල්ල තවත් රසවත්,positive,positive,1,feedback
+11137,33,දන්නා විදිහට තමයි මහේලව දාලා ගියේ,negative,negative,1,other
+11155,40,අම්මෝ පාර්ලිමේන්තුවේ උන්ගේ බය ඇරෙන්න ඇති,positive,positive,1,feedback
+11160,13,හරිම සතුටුයි.,positive,positive,1,greeting
+11162,6,උම් බෑ,neutral,negative,0,other
+11165,38,ගණන දොළොස් දහස් හත්සිය පනස් පහක් වෙලා.,neutral,neutral,1,other
+11178,30,මේක ප්රජාචන්ත්රවාදී රටක් යකුනේ,conflict,neutral,0,feedback
+11179,29,මහින්ද රනිල් ලේ ඥාතීන් ෂුවර්.,neutral,neutral,1,other
+11181,40,ඒකට තමා කතාගොඩ ව ජාතික ලයිස්තුවෙන් එව්වෙ,negative,negative,1,feedback
+11189,24,හිහිහිහිහීහීහී. ඕං චන්ඩි,negative,neutral,0,feedback
+11190,22,චංඩින්ගෙ රෙදි ඉල්ලෙ නෝ,negative,negative,1,feedback
+11199,24,හරි වැඩ අල්ලලා තියෙන්නෙ.,positive,positive,1,feedback
+11208,20,ලංකාවේ හරක්ට හොදායි.,conflict,positive,0,feedback
+11215,10,මං දන් නෑ.,negative,negative,1,feedback
+11227,22,කියන්නෙ තවම නෑ කියන එක,negative,negative,1,feedback
+11232,34,හොද තීරණයක්. ගන්න තිබ්බේ මීට කලින්,positive,positive,1,feedback
+11234,17,නිවන් සුව අත්වේවා,positive,positive,1,other
+11251,40,සුදාගෙ නම් පොඩි ගතියක් තියනවා. එකට වෙනවා,positive,positive,1,feedback
+11282,30,මාකදුරේ මදුෂ් කොහෙද මචන් ඉන්නේ,neutral,neutral,1,inquiry
+11297,17,විදේශීය කුමන්ත්රණ,negative,negative,1,feedback
+11351,20,තෝ වගේ මී හරකෙක් යකෝ,negative,negative,1,complaint
+11352,42,මීට. නිහාල් නෙල්සන්ගෙන් බන අහන මරි ගොනෙක්.,negative,negative,1,complaint
+11374,42,අල්ලේ පැලවෙන බොරු කියන එක පවක් නොවෙයිද බන්,negative,negative,1,feedback
+11379,34,මමත් මෙයා දිහා බලාගෙන කරලා තියනවා.,neutral,neutral,1,feedback
+11390,36,එහෙම නම් ඔක්කොම වල තමා තියන්න වෙන්නේ,negative,neutral,0,inquiry
+11397,41,කෑම්පස් කොල්ලන්ට පෙන්වන අවම බලය කෝ හෑබෑට.,neutral,neutral,1,inquiry
+11410,17,සාරැකාන්ට ජයවේවා.,positive,positive,1,greeting
+11415,30,අපිට කොන්ත්රාත් එකක් වත් නැද්ද,negative,negative,1,inquiry
+11421,16,ඔන්න කරනවනම් වැඩ,positive,positive,1,suggestion
+11423,9,ඇයි චීනෙට,neutral,neutral,1,inquiry
+11437,35,ඒ උනාට නඟින්නේ නැත්තං වැඩක් නැහැනෙ.,negative,negative,1,feedback
+11438,31,මෙයා හිලරිලට වඩා අපේ රටට හොදයි.,positive,positive,1,feedback
+11441,7,මෙලනියා,neutral,neutral,1,other
+11457,7,තල තෙල්,neutral,neutral,1,other
+11467,38,මේ ඉතින් ජනතාවගේ පෙර පින් පලදෙන කාලෙනේ,positive,positive,1,feedback
+11480,7,අනේ වහල,negative,negative,1,feedback
+11493,42,18 වෙනි ශතවර්ෂයෙ උපකරණයක් ලංකාවට නවීන වෙලා,positive,negative,0,feedback

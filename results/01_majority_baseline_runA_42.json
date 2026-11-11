@@ -1,0 +1,138 @@
+{
+  "notebook": "01_majority_baseline",
+  "model": "Majority class",
+  "run": "runA",
+  "seed": 42,
+  "n_test": 300,
+  "sent_acc": 0.6133333333333333,
+  "sent_f1_4cls": 0.19008264462809915,
+  "sent_f1_3cls": 0.25344352617079885,
+  "intent_acc": 0.26,
+  "intent_f1": 0.0687830687830688,
+  "joint_acc": 0.24,
+  "sentiment_per_class": {
+    "Conflict": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "Negative": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 90
+    },
+    "Neutral": {
+      "precision": 0.6133333333333333,
+      "recall": 1.0,
+      "f1": 0.7603305785123966,
+      "support": 184
+    },
+    "Positive": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 25
+    }
+  },
+  "intent_per_class": {
+    "complaint": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 61
+    },
+    "feedback": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 94
+    },
+    "greeting": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 23
+    },
+    "inquiry": {
+      "precision": 0.26,
+      "recall": 1.0,
+      "f1": 0.41269841269841273,
+      "support": 78
+    },
+    "other": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 13
+    },
+    "suggestion": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 31
+    }
+  },
+  "intent_confusion_matrix": [
+    [
+      0,
+      0,
+      0,
+      61,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      94,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      23,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      78,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      13,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      31,
+      0,
+      0
+    ]
+  ],
+  "meta": {
+    "train_majority_sentiment": "Neutral",
+    "train_majority_intent": "inquiry",
+    "oracle_gold_majority_note": {
+      "warning": "NOT A VALID BASELINE (uses test-set label distribution; reported for reference only)",
+      "oracle_intent_label": "feedback",
+      "oracle_intent_acc": 0.31333333333333335,
+      "oracle_intent_f1": 0.07952622673434856,
+      "oracle_joint_acc": 0.13666666666666666
+    }
+  }
+}

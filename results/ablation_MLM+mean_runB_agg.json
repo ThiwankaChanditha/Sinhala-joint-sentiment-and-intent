@@ -1,0 +1,20 @@
+{
+  "notebook": "ablation_MLM+mean",
+  "model": "MLM+mean",
+  "sent_acc": 0.738,
+  "sent_acc_std": 0.008,
+  "sent_f1_3cls": 0.667,
+  "sent_f1_3cls_std": 0.009,
+  "sent_f1_4cls": 0.5,
+  "sent_f1_4cls_std": 0.007,
+  "intent_acc": 0.484,
+  "intent_acc_std": 0.002,
+  "intent_f1": 0.429,
+  "intent_f1_std": 0.006,
+  "joint_acc": 0.41,
+  "joint_acc_std": 0.003,
+  "run": "runB",
+  "seed": "42_43_44",
+  "n_test": 300,
+  "is_preaggregated": true
+}
