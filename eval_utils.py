@@ -386,46 +386,56 @@ def macro_f1_present(y_true: np.ndarray, y_pred: np.ndarray, num_classes: int) -
 
 
 def compute_metrics(
-    y_sent_true: np.ndarray,
-    y_sent_pred: np.ndarray,
+    y_sent_true: Optional[np.ndarray] = None,
+    y_sent_pred: Optional[np.ndarray] = None,
     y_int_true: Optional[np.ndarray] = None,
     y_int_pred: Optional[np.ndarray] = None,
 ) -> Dict[str, Any]:
     """
     Compute all required sentiment, intent, and joint evaluation metrics.
-    Supports single-task sentiment evaluation when `y_int_pred` is None.
+    Supports single-task sentiment (y_int_pred is None) and single-task intent
+    (y_sent_pred is None) evaluation.
     """
-    ys_t = np.asarray(y_sent_true, dtype=np.int64)
-    ys_p = np.asarray(y_sent_pred, dtype=np.int64)
-
-    sent_acc = float((ys_t == ys_p).mean())
-    sent_p, sent_r, sent_f1, sent_sup = precision_recall_fscore_support(
-        ys_t, ys_p, labels=list(range(NS)), zero_division=0
-    )
-    sent_macro_f1_4cls = float(np.mean(sent_f1))
-    sent_macro_f1_3cls = float(np.mean(sent_f1[SENT_3CLS_INDICES]))
-
-    sent_per_class = {
-        SENT_CLASSES[i]: {
-            "precision": float(sent_p[i]),
-            "recall": float(sent_r[i]),
-            "f1": float(sent_f1[i]),
-            "support": int(sent_sup[i]),
-        }
-        for i in range(NS)
-    }
-
     result: Dict[str, Any] = {
-        "sent_acc": sent_acc,
-        "sent_f1_4cls": sent_macro_f1_4cls,
-        "sent_f1_3cls": sent_macro_f1_3cls,
+        "sent_acc": None,
+        "sent_f1_4cls": None,
+        "sent_f1_3cls": None,
         "intent_acc": None,
         "intent_f1": None,
         "joint_acc": None,
-        "sentiment_per_class": sent_per_class,
+        "sentiment_per_class": None,
         "intent_per_class": None,
         "intent_confusion_matrix": None,
     }
+
+    ys_t = ys_p = None
+    if y_sent_true is not None and y_sent_pred is not None:
+        ys_t = np.asarray(y_sent_true, dtype=np.int64)
+        ys_p = np.asarray(y_sent_pred, dtype=np.int64)
+
+        sent_acc = float((ys_t == ys_p).mean())
+        sent_p, sent_r, sent_f1, sent_sup = precision_recall_fscore_support(
+            ys_t, ys_p, labels=list(range(NS)), zero_division=0
+        )
+        sent_macro_f1_4cls = float(np.mean(sent_f1))
+        sent_macro_f1_3cls = float(np.mean(sent_f1[SENT_3CLS_INDICES]))
+
+        sent_per_class = {
+            SENT_CLASSES[i]: {
+                "precision": float(sent_p[i]),
+                "recall": float(sent_r[i]),
+                "f1": float(sent_f1[i]),
+                "support": int(sent_sup[i]),
+            }
+            for i in range(NS)
+        }
+
+        result.update({
+            "sent_acc": sent_acc,
+            "sent_f1_4cls": sent_macro_f1_4cls,
+            "sent_f1_3cls": sent_macro_f1_3cls,
+            "sentiment_per_class": sent_per_class,
+        })
 
     if y_int_true is not None and y_int_pred is not None:
         yi_t = np.asarray(y_int_true, dtype=np.int64)
@@ -436,7 +446,7 @@ def compute_metrics(
             yi_t, yi_p, labels=list(range(NI)), zero_division=0
         )
         intent_macro_f1 = float(np.mean(int_f1))
-        joint_acc = float(((ys_t == ys_p) & (yi_t == yi_p)).mean())
+        joint_acc = float(((ys_t == ys_p) & (yi_t == yi_p)).mean()) if (ys_t is not None and ys_p is not None) else None
 
         cm_int = confusion_matrix(yi_t, yi_p, labels=list(range(NI)))
 
@@ -515,7 +525,7 @@ def evaluate_and_save(
     run: str,
     seed: Any,
     test_df: pd.DataFrame,
-    pred_sent_id: np.ndarray,
+    pred_sent_id: Optional[np.ndarray] = None,
     pred_intent_id: Optional[np.ndarray] = None,
     sent_probs: Optional[np.ndarray] = None,
     intent_probs: Optional[np.ndarray] = None,
@@ -528,6 +538,7 @@ def evaluate_and_save(
     1. `results/{notebook_name}_{run}_{seed}.json`
     2. `preds/{model_name}_{run}_{seed}.csv`
     3. `results/cm_intent_{notebook_name}_{run}_{seed}.csv` and `.png` (if intent predictions exist)
+    Supports both joint, sentiment-only (`pred_intent_id=None`), and intent-only (`pred_sent_id=None`) calls.
     """
     os.makedirs(results_dir, exist_ok=True)
     os.makedirs(preds_dir, exist_ok=True)
@@ -536,7 +547,7 @@ def evaluate_and_save(
     y_int_gold = test_df["gold_intent_id"].values
 
     metrics = compute_metrics(
-        y_sent_true=y_sent_gold,
+        y_sent_true=y_sent_gold if pred_sent_id is not None else None,
         y_sent_pred=pred_sent_id,
         y_int_true=y_int_gold if pred_intent_id is not None else None,
         y_int_pred=pred_intent_id,
@@ -567,9 +578,14 @@ def evaluate_and_save(
         "gold_intent_id": y_int_gold,
         "gold_sentiment": [ID_TO_SENT[int(i)] for i in y_sent_gold],
         "gold_intent": [ID_TO_INTENT[int(i)] for i in y_int_gold],
-        "pred_sent_id": np.asarray(pred_sent_id, dtype=np.int64),
-        "pred_sentiment": [ID_TO_SENT[int(i)] for i in pred_sent_id],
     })
+    if pred_sent_id is not None:
+        pred_df["pred_sent_id"] = np.asarray(pred_sent_id, dtype=np.int64)
+        pred_df["pred_sentiment"] = [ID_TO_SENT[int(i)] for i in pred_sent_id]
+    else:
+        pred_df["pred_sent_id"] = -1
+        pred_df["pred_sentiment"] = ""
+
     if pred_intent_id is not None:
         pred_df["pred_intent_id"] = np.asarray(pred_intent_id, dtype=np.int64)
         pred_df["pred_intent"] = [ID_TO_INTENT[int(i)] for i in pred_intent_id]
